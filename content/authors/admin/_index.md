@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Aiming to restructure the corporate world by incorporating psychological perspective analysis \\ of consumers and purchasers in order to boost the profitability index of projects.
+Aiming to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects.
