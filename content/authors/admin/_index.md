@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Aiming to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects.
+MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. He has prior experience in supply chain management (SCM), project scheduling and sales pitching. 
