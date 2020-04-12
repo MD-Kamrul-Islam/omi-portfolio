@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Video Games
-- Reading
+- Behavioral patterns
+- Writing
 - Business Cases
 
 education:
@@ -30,10 +30,10 @@ education:
   - course: Bachelors of Business Adminitration
     institution: Institute of Business Administration, University of Dhaka
     year: Ongoing
-  - course: H.S.C.
+  - course: Higher Secondary Certificate
     institution: Dhaka College, Dhaka
     year: 2017
-  - course: S.S.C.
+  - course: Secondary School Certificate
     institution: Government Laboratory High School, Dhaka
     year: 2015
 
