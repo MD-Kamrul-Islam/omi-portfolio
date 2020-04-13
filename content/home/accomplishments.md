@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals"
+  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
 
 +++
