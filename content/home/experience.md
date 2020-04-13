@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Co-Founder & Co-Owner"
+  company = "Paperman-BD"
+  company_url = "https://www.facebook.com/papermanBD/"
+  location = "Dhaka"
+  date_start = "2018-09-01"
   date_end = ""
-  description = """
+  description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Social Media Marketing
+  * Sales Negotiations
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Strategic Content Planner & Contributor"
+  company = "Upthrust.Co"
+  company_url = "http://upthrust.co/"
+  location = "Dhaka"
+  date_start = "2019-02-01"
+  date_end = "2019-10-01"
+  description = """Developed consumer targeting strategy with the Content Planning team with a view to increasing consumer engagements for online reads in the digital platform.
+  Responsibilities include:
+  
+  * Project Scheduling
+  * Content Writing
+  * Content Planning
+  """
+
+[[experience]]
+  title = "Value Chain Manager"
+  company = "Newton's Archive"
+  company_url = "https://www.facebook.com/newtonsarchive/"
+  location = "Mohakhali, Dhaka"
+  date_start = "2019-06-01"
+  date_end = ""
+  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.
+  Responsibilities include:
+  
+  * Value Chain Management
+  * Business Analysis
+  * Financial Performance Analysis
+  """
 
 +++
