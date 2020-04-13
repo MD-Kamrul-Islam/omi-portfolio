@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Mohakhali, Dhaka"
   date_start = "2019-06-01"
   date_end = ""
-  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.
+  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.    
   Responsibilities include:
   
   * Value Chain Management
