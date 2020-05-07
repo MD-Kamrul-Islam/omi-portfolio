@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MD Kamrul Islam"]
 
-tags = ["Ayub Bacchu, Balam"]
+tags = ["Ayub Bacchu" "Balam"]
 summary = "Balam Takes Up Lead Vocalist Role in LRB, Promises to do Right by Ayub Bacchu’s Legacy"
 
 [header]
