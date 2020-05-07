@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "English & Analytical Instructor"
-  company = "Mentors"
+  company = "Mentors'"
   company_url = "https://www.mentors.com.bd/"
   location = "Dhaka"
   date_start = "2019-04-25"
