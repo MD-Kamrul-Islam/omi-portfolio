@@ -2,7 +2,7 @@
 title = "Balam Takes Up Lead Vocalist Role in LRB"
 
 date = 2019-04-13T00:00:00
-lastmod = 2020-02-22T00:22:35
+lastmod = 2019-04-17T00:22:35
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
