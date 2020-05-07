@@ -37,17 +37,23 @@ subtitle = ""
   icon_pack = "fab"
   name = "Photoshop"
   description = "Intermediate"
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Beginner"
   
 [[feature]]
   icon = "adobe"
   icon_pack = "fab"
   name = "Illustrator"
+  description = "Beginner"
+
+[[feature]]
+  icon = "leaf"
+  icon_pack = "fas"
+  name = "LaTeX"
+  description = "Beginner"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
   description = "Beginner"
 
 
