@@ -32,6 +32,11 @@ subtitle = ""
   name = "MS Powerpoint"
   description = "Intermediate"
 
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Photoshop"
+  description = "Intermediate"
 
 [[feature]]
   icon = "r-project"
@@ -45,11 +50,6 @@ subtitle = ""
   name = "Illustrator"
   description = "Beginner"
 
-[[feature]]
-  icon = "adobe"
-  icon_pack = "fab"
-  name = "Photoshop"
-  description = "Intermediate"
 
 [[feature]]
   icon = "chart-line"
