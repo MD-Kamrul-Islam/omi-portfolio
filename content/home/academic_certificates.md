@@ -1,11 +1,11 @@
 +++
-# Academic Certificates widget.
-widget = "academic certificates"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Academic&shy;Certificates"
+title = "Accomplis&shy;ments"
 subtitle = ""
 
 # Date format
