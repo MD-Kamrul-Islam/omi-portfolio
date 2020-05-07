@@ -1,5 +1,5 @@
 +++
-# Accomplishments widget.
+# Academic Certificates widget.
 widget = "academic certificates"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
