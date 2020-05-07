@@ -19,26 +19,21 @@ caption = ""
 
 ## A familiar story that never fails to squeeze tears out of the glands.
 
-Plot Originality: 2
-Narrative: 8
-Acting: 9
-Music: 9
-Direction: 7
-Production: 8
+Plot Originality: 2, Narrative: 8, Acting: 9, Music: 9, Direction: 7, Production: 8
 
-### Pros:
+Pros:
 1. Bradley Cooper mesmerizes us with his acting prowess
 2. Lady Gaga peels her celebrity skin off to make the character compelling 
 3. Lady Gaga and his team brings together a bunch of musical spectacles
 
-### Cons:
+Cons:
 1. The story is cliché and fails to keep the audience on the edge of their seats
 2. Although Cooper does a fairly good job as a debut director, he is far from being a A lister on that director’s chair
 3. The buildup falls off on the second half
 
-### Overall Score: 7
+Overall Score: 7
 
-## Breakdown
+## Movie Breakdown
 The thing that always peeks interest in the ‘A Star is Born’ franchise is how different directors adds their own version of flesh and skins to the constant skeleton of the plot. While every cinephiles has their own favorite iteration, most of them have already deemed Copper’s version as the best in the franchise. Following the surge of wide acclamations after the trailer release, the movie definitely lived up to its expectation snatching a spot in the already star-studded nominee line up for the best picture academy award. 
 Bradley Cooper takes up a huge responsibility to perform both behind and in front of the camera. Cooper plays the role of Jackson “Jack” Maine, a (in)famous country rock musician who is hardly staying relevant in the scene with his heavy drinking problem and hearing issue due to Tinnitus. Ally Campana, played by Lady Gaga is a drag club singer (only for the sake of her love towards singing) “with a voice like from heaven”, as her father Lorenzo (Andrew Dice Clay) so eloquently put. On a fated night, when Jack was returning from a concert, he stumbled up on the drag club’s door looking for more booze where Ally used to perform after her waitress shift ended.  Hearing the beautiful rendition of ‘La Vie en Rose’ from place he least expected and from a person who kept on hypnotizing Jack from her attire to her performance, Jack asks her out for the night; wasted in booze and the trance created by Ally. The night is one of the beautifully executed scenes by Cooper which not only gives Jack’s character a depth but also successfully lays the ground work for the two leads’ initial courtship. 
 
