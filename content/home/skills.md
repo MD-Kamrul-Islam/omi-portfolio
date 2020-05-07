@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "microsoft"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "MS Office"
   description = "Intermediate"  
   
 [[feature]]
   icon = "adobe"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Illustrator"
   description = "Beginner"
 
