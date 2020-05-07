@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company = "Upthrust.Co"
   company_url = "http://upthrust.co/"
   location = "Dhaka"
-  date_start = "2019-02-01"
+  date_start = "2018-11-01"
   date_end = "2019-10-01"
   description = """Developed consumer targeting strategy with the Content Planning team with a view to increasing consumer engagements for online reads in the digital platform.
   Responsibilities include:
