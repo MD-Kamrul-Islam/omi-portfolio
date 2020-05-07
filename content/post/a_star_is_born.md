@@ -18,12 +18,7 @@ caption = ""
 +++
 
 ## A familiar story that never fails to squeeze tears out of the glands.
-Plot Originality 2
-Narrative 8
-Acting 9
-Music 9
-Direction 7
-Production 8
+Plot Originality 2 / Narrative 8 / Acting 9 / Music 9 / Direction 7 / Production 8
 
 Pros:
 1. Bradley Cooper mesmerizes us with his acting prowess
