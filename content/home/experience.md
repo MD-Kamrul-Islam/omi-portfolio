@@ -47,6 +47,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "English & Analytical Instructor"
+  company = "Mentors"
+  company_url = "https://www.mentors.com.bd/"
+  location = "Dhaka"
+  date_start = "2019-04-25"
+  date_end = ""
+  description = """Mentored university admission seekers, especially IBA aspirants, in developing English language proficiency and critical analysis skills.
+  Responsibilities include:
+  
+  * Class Co-ordinating
+  * Academic Content Writing
+  """
+
+[[experience]]
   title = "Value Chain Manager"
   company = "Newton's Archive"
   company_url = "https://www.facebook.com/newtonsarchive/"
