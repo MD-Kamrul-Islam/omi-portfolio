@@ -18,8 +18,12 @@ caption = ""
 +++
 
 ## A familiar story that never fails to squeeze tears out of the glands.
-
-Plot Originality: 2, Narrative: 8, Acting: 9, Music: 9, Direction: 7, Production: 8
+Plot Originality 2
+Narrative 8
+Acting 9
+Music 9
+Direction 7
+Production 8
 
 Pros:
 1. Bradley Cooper mesmerizes us with his acting prowess
@@ -31,7 +35,7 @@ Cons:
 2. Although Cooper does a fairly good job as a debut director, he is far from being a A lister on that director’s chair
 3. The buildup falls off on the second half
 
-Overall Score: 7
+Overall Score: 7 out of 10
 
 ## Movie Breakdown
 The thing that always peeks interest in the ‘A Star is Born’ franchise is how different directors adds their own version of flesh and skins to the constant skeleton of the plot. While every cinephiles has their own favorite iteration, most of them have already deemed Copper’s version as the best in the franchise. Following the surge of wide acclamations after the trailer release, the movie definitely lived up to its expectation snatching a spot in the already star-studded nominee line up for the best picture academy award. 
