@@ -24,6 +24,9 @@ interests:
 - Behavioral patterns
 - Writing
 - Business Cases
+- Finance
+- Music
+- Teaching
 
 education:
   courses:
