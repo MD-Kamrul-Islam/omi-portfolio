@@ -1,61 +1,77 @@
 +++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
 
-title = "Academic&shy;Certificates"
+title = "Projects"
 subtitle = ""
 
-# Date format
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
-
-# Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "Intra School Debate"
-  organization_url = ""
-  title = "Best Speaker"
-  url = ""
-  certificate_url = ""
-  date_start = "2010-04-01"
-  date_end = ""
-  description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
-
-[[item]]
-  organization = "National Essay Competition"
-  organization_url = ""
-  title = "Runners-Up"
-  url = ""
-  certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = ""
-  description = "Stood second in the 'National Independence Day Essay Competition'."
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
   
-[[item]]
-  organization = "HSBC Business Case Competition"
-  organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
-  title = "Semi-Finalist (Ongoing Competition)"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
 
-[[item]]
-  organization = "International Block Chain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Global Qualifier (Ongoing Competition)"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Qualified for the global round of the Olympiad as the fifth Seed from Bangladesh"
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
+
