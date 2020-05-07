@@ -48,4 +48,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
 
+[[item]]
+  organization = "International Block Chain Olympiad"
+  organization_url = "https://www.ibcol.org/"
+  title = "Global Qualifier"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = "Qualified for the global round of the Olympiad as the Fifth Seed from the nation"
+
 +++
