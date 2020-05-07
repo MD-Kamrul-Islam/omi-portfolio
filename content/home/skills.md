@@ -13,6 +13,25 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+  
+[[feature]]
+  icon = "file-word"
+  icon_pack = "fas"
+  name = "MS Word"
+  description = "Advanced"  
+  
+[[feature]]
+  icon = "file-excel"
+  icon_pack = "fas"
+  name = "MS Excel"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "file-powerpoint"
+  icon_pack = "fas"
+  name = "MS Powerpoint"
+  description = "Intermediate"
+
 
 [[feature]]
   icon = "r-project"
@@ -21,15 +40,20 @@ subtitle = ""
   description = "Beginner"
   
 [[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "MS Office"
-  description = "Intermediate"  
-  
-[[feature]]
   icon = "adobe"
   icon_pack = "fab"
   name = "Illustrator"
   description = "Beginner"
 
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Photoshop"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "SPSS"
+  description = "Beginner"
 +++
