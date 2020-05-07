@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "Qualified for the global round of the Olympiad as the Fifth Seed from the nation"
+  description = "Qualified for the global round of the Olympiad as the fifth Seed from Bangladesh"
 
 +++
