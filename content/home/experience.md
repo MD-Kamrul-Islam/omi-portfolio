@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Co-Founder & Co-Owner"
   company = "Paperman-BD"
   company_url = "https://www.facebook.com/papermanBD/"
-  location = "Dhaka"
+  location = "Dhaka, Bangladesh"
   date_start = "2018-09-01"
   date_end = ""
   description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market.
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   title = "Strategic Content Planner & Contributor"
   company = "Upthrust.Co"
   company_url = "http://upthrust.co/"
-  location = "Dhaka"
+  location = "Dhaka, Bangladesh"
   date_start = "2018-11-01"
   date_end = "2019-10-01"
   description = """Developed consumer targeting strategy with the Content Planning team with a view to increasing consumer engagements for online reads in the digital platform.
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   title = "English & Analytical Instructor"
   company = "Mentors'"
   company_url = "https://www.mentors.com.bd/"
-  location = "Dhaka"
+  location = "Dhaka, Bangladesh"
   date_start = "2019-04-25"
   date_end = ""
   description = """Mentored university admission seekers, especially IBA aspirants, in developing English language proficiency and critical analysis skills.
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   title = "Value Chain Manager"
   company = "Newton's Archive"
   company_url = "https://www.facebook.com/newtonsarchive/"
-  location = "Mohakhali, Dhaka"
+  location = "Dhaka, Bangladesh"
   date_start = "2019-06-01"
   date_end = ""
   description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.    
@@ -73,6 +73,21 @@ date_format = "Jan 2006"
   * Value Chain Management
   * Business Analysis
   * Financial Performance Analysis
+  """
+  
+  [[experience]]
+  title = "Content Specialist"
+  company = "VintValley"
+  company_url = "https://www.vintvalley.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """Administered and developed the official blog for VintVally, VintVoice along with engaging in US and Canada market research for investment analysis.    
+  Responsibilities include:
+  
+  * Website & Blog Development 
+  * Investment Analysis
+  * Content Development
   """
 
 +++
