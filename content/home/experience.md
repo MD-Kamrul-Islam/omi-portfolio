@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   * Financial Performance Analysis
   """
   
-  [[experience]]
+[[experience]]
   title = "Content Specialist"
   company = "VintValley"
   company_url = "https://www.vintvalley.com/"
