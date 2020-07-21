@@ -58,14 +58,4 @@ date_format = "Jan 2006"
   date_end = "2020-07-18"
   description = "Gained a basic understanding about the blockchain technology to apprehend its future scope in revolutionizing the business world."
   
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Psychological First Aid"
-  url = "https://www.coursera.org/learn/psychological-first-aid/home/welcome"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FXNAS2LVXZRV"
-  date_start = ""
-  date_end = "2020-07-21"
-  description = "Learned to provide psychological first aid to people in emergency by employing the RAPID model"  
-
 +++
