@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Introduction to Psychology"
   url = "https://www.coursera.org/learn/introduction-psychology/home/welcome"
   certificate_url = "https://www.coursera.org/learn/introduction-psychology/home/welcome"
-  date_start = "2020-04-27"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-18"
   description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Excel Skills For Business"
   url = "https://www.coursera.org/learn/excel-essentials/home/welcome"
   certificate_url = "https://www.coursera.org/learn/excel-essentials/home/welcome"
-  date_start = "2010-04-30"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-18"
   description = "Deep dived into the advanced funtions of MS Excel to get adept with a basic data analysis tool."
 
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "The Data Scientist’s Toolbox"
   url = "https://www.coursera.org/learn/data-scientists-tools/home/welcome"
   certificate_url = "https://www.coursera.org/learn/data-scientists-tools/home/welcome"
-  date_start = "2010-05-03"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-18"
   description = "Learned R programming language as a mean of statistical data analysis tool."
 
 [[item]]
@@ -54,8 +54,18 @@ date_format = "Jan 2006"
   title = "Blockchain: Foundations and Use Cases"
   url = "https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/YWSHZ8UHFXCH"
-  date_start = "2010-05-06"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-18"
   description = "Gained a basic understanding about the blockchain technology to apprehend its future scope in revolutionizing the business world."
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Psychological First Aid"
+  url = "https://www.coursera.org/learn/psychological-first-aid/home/welcome"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FXNAS2LVXZRV"
+  date_start = ""
+  date_end = "2020-07-21"
+  description = "Learned to provide psychological first aid to people in emergency by employing the RAPID model"  
 
 +++
