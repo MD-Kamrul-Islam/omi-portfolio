@@ -75,4 +75,19 @@ date_format = "Jan 2006"
   * Financial Performance Analysis
   """
   
+[[experience]]
+  title = "Content Writer Specialist"
+  company = "VintValley"
+  company_url = "https://www.vintvalley.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """Administered and developed the official blog for VintVally, VintVoice along with engaging in US and Canada market research for investment analysis.    
+  Responsibilities include:
+  
+  * Website & Blog Development 
+  * Investment Analysis
+  * Content Development
+  """
+  
 +++
