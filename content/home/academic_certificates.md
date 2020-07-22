@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/introduction-psychology"
   certificate_url = "https://www.coursera.org/learn/introduction-psychology"
   date_start = "July 2020"
-  date_end = "July 2020"
+  date_end = ""
   description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/excel-essentials"
   certificate_url = "https://www.coursera.org/learn/excel-essentials"
   date_start = "July 2020"
-  date_end = "July 2020"
+  date_end = ""
   description = "Deep dived into the advanced funtions of MS Excel to get adept with a basic data analysis tool."
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/data-scientists-tools"
   certificate_url = "https://www.coursera.org/learn/data-scientists-tools"
   date_start = "July 2020"
-  date_end = "July 2020"
+  date_end = ""
   description = "Learned R programming language as a mean of statistical data analysis tool."
 
 [[item]]
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/blockchain-foundations-and-use-cases"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/YWSHZ8UHFXCH"
   date_start = "July 2020"
-  date_end = "July 2020"
+  date_end = ""
   description = "Gained a basic understanding about the blockchain technology to apprehend its future scope in revolutionizing the business world."
 
 [[item]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org/learn/psychological-first-aid"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FXNAS2LVXZRV"
   date_start = "July 2020"
-  date_end = "July 2020"
+  date_end = ""
   description = "Learned to provide psychological first aid to people in an emergency by employing the RAPID model"
 +++
