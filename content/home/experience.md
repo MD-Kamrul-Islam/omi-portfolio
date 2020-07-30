@@ -86,7 +86,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Website & Blog Development 
-  * Investment Analysis
+  * Investment Analysi
   * Content Development
   """
   
