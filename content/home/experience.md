@@ -74,6 +74,20 @@ date_format = "Jan 2006"
   * Business Analysis
   * Financial Performance Analysis
   """
+
+[[experience]]
+  title = "Content Specialist"
+  company = "VintValley"
+  company_url = "https://www.vintvalley.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.    
+  Responsibilities include:
   
+  * Value Chain Management
+  * Business Analysis
+  * Financial Performance Analysis
+  """
   
 +++
