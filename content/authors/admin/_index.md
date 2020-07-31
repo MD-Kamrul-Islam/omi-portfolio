@@ -18,7 +18,7 @@ organizations:
   url: "https://iba-du.edu/index.php/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Life is short only if your to-do list is too short.
 
 interests:
 - Behavioral patterns
