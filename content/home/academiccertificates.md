@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = ""
+  organization_url = "https://www.coursera.org/"
   title = "Best Speaker"
   url = ""
   certificate_url = ""
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = ""
+  organization_url = "https://www.coursera.org/"
   title = "Runners-Up"
   url = ""
   certificate_url = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Coursera"
-  organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
+  organization_url = "https://www.coursera.org/"
   title = "Semi-Finalist (Ongoing Competition)"
   url = ""
   certificate_url = ""
