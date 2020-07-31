@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Introduction to Psychology"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XPHCJW8DMAMK"
