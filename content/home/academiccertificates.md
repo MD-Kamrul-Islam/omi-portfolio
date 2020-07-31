@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Introduction to Psychology"
   url = ""
   certificate_url = ""
-  date_start = "2010-04-01"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-29"
   description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Blockchain: Foundations and Use Cases"
   url = ""
   certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-17"
   description = "Stood second in the 'National Independence Day Essay Competition'."
   
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "Psychological First Aid"
   url = ""
   certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-21"
   description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
 
 +++
