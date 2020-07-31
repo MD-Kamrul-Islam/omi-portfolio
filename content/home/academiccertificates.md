@@ -48,4 +48,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Learned to provide psychological first aid to people in an emergency by employing the 'RAPID' model"
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Excel Skills For Business"
+  url = "https://www.coursera.org/learn/excel-essentials"
+  certificate_url = ""
+  date_start = "2020-08-01"
+  date_end = ""
+  description = "Deep dived into the advanced funtions of MS Excel to get adept with a basic data analysis tool."
+
 +++
