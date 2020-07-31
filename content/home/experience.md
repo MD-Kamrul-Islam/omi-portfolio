@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/papermanBD/"
   location = "Dhaka, Bangladesh"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2019-04-01"
   description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market.
   Responsibilities include:
   
@@ -82,12 +82,12 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2020-07-01"
   date_end = ""
-  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.    
+  description = """Administered and developed the official blog for VintVally- 'VintVoice', along with engaging in US and Canada market research for investment analysis.    
   Responsibilities include:
   
-  * Value Chain Management
-  * Business Analysis
-  * Financial Performance Analysis
+  * Website Development
+  * Search Enging Optimization
+  * Content Development
   """
   
 +++
