@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Intra School Debate"
-  organization_url = ""
-  title = "Best Speaker"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Psychology"
   url = ""
-  certificate_url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XPHCJW8DMAMK"
   date_start = "2010-04-01"
   date_end = ""
-  description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
+  description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
 [[item]]
   organization = "National Essay Competition"
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Runners-Up"
   url = ""
   certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = ""
+  date_start = ""
+  date_end = "2020-07-29"
   description = "Stood second in the 'National Independence Day Essay Competition'."
   
 [[item]]
