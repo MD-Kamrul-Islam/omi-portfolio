@@ -19,43 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Intra School Debate"
-  organization_url = ""
-  title = "Best Speaker"
-  url = ""
-  certificate_url = ""
-  date_start = "2010-04-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Psychology"
+  url = "https://www.coursera.org/learn/introduction-psychology"
+  certificate_url = "https://www.coursera.org/learn/introduction-psychology"
+  date_start = "July 2020"
   date_end = ""
-  description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
+  description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
 [[item]]
-  organization = "National Essay Competition"
-  organization_url = ""
-  title = "Runners-Up"
-  url = ""
-  certificate_url = ""
-  date_start = "2012-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Excel Skills For Business"
+  url = "https://www.coursera.org/learn/excel-essentials"
+  certificate_url = "https://www.coursera.org/learn/excel-essentials"
+  date_start = "July 2020"
   date_end = ""
-  description = "Stood second in the 'National Independence Day Essay Competition'."
+  description = "Deep dived into the advanced funtions of MS Excel to get adept with a basic data analysis tool."
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "The Data Scientist’s Toolbox"
+  url = "https://www.coursera.org/learn/data-scientists-tools"
+  certificate_url = "https://www.coursera.org/learn/data-scientists-tools"
+  date_start = "July 2020"
+  date_end = ""
+  description = "Learned R programming language as a mean of statistical data analysis tool."
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Blockchain: Foundations and Use Cases"
+  url = "https://www.coursera.org/learn/blockchain-foundations-and-use-cases"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/YWSHZ8UHFXCH"
+  date_start = "July 2020"
+  date_end = ""
+  description = "Gained a basic understanding about the blockchain technology to apprehend its future scope in revolutionizing the business world."
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Psychological First Aid"
+  url = "https://www.coursera.org/learn/psychological-first-aid"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FXNAS2LVXZRV"
+  date_start = "July 2020"
+  date_end = ""
+  description = "Learned to provide psychological first aid to people in an emergency by employing the RAPID model"
   
-[[item]]
-  organization = "HSBC Business Case Competition"
-  organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
-  title = "Semi-Finalist"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
-
-[[item]]
-  organization = "International Block Chain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Global Qualifier"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Qualified for the global round of the Olympiad as the fifth Seed from Bangladesh."
-
 +++
