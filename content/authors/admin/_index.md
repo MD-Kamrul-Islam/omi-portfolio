@@ -48,12 +48,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:kiomi920@gmail.com
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/md.k.islam.omi  
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MDKamru96646425
-- icon: facebook
+- icon: skype
   icon_pack: fab
-  link: https://www.facebook.com/md.k.islam.omi
+  link: https://join.skype.com/invite/qkpFxy44DeGI?fbclid=IwAR3ZnbarRsAVulU-3Ag4chQkwc-oM8JegHfidhw1wBt6e45dmRjy9sOQUS8  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/md-k-islam/
