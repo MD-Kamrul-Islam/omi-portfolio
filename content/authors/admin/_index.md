@@ -22,10 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Behavioral patterns
-- Writing
+- Search Engine Optimization
+- Digital Marketing
 - Business Cases
-- Finance
-- Music
+- Writing
 - Teaching
 
 education:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. He has prior experience in supply chain management (SCM), project scheduling and sales pitching. 
+MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. He has prior experience in supply chain management (SCM), digital marketing & content development, search engine optimization (SEO), blogging and sales pitching. 
