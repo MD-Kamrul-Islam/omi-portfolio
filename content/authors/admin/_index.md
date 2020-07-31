@@ -51,7 +51,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MDKamru96646425
-- icon: fa-facebook-square
+- icon: facebook
   icon_pack: fab
   link: https://github.com/MD-Kamrul-Islam
 # Link to a PDF of your resume/CV from the About widget.
