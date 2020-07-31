@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-07-29"
   date_end = ""
-  description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
+  description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
 [[item]]
   organization = "Coursera"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-07-17"
   date_end = ""
-  description = "Stood second in the 'National Independence Day Essay Competition'."
+  description = "Gained a basic understanding about the blockchain technology to apprehend its future scope in revolutionizing the business world."
   
 [[item]]
   organization = "Coursera"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-07-21"
   date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
+  description = "Learned to provide psychological first aid to people in an emergency by employing the 'RAPID' model"
 
 +++
