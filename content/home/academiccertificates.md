@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Intra School Debate"
+  organization = "Coursera"
   organization_url = ""
   title = "Best Speaker"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
 
 [[item]]
-  organization = "National Essay Competition"
+  organization = "Coursera"
   organization_url = ""
   title = "Runners-Up"
   url = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Stood second in the 'National Independence Day Essay Competition'."
   
 [[item]]
-  organization = "HSBC Business Case Competition"
+  organization = "Coursera"
   organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
   title = "Semi-Finalist (Ongoing Competition)"
   url = ""
@@ -47,15 +47,5 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
-
-[[item]]
-  organization = "International Block Chain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Global Qualifier (Ongoing Competition)"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Qualified for the global round of the Olympiad as the fifth Seed from Bangladesh."
 
 +++
