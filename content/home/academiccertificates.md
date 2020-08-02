@@ -53,10 +53,10 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/"
   title = "Excel Skills For Business: Essentials"
   url = "https://www.coursera.org/learn/excel-essentials"
-  certificate_url = ""
-  date_start = "2020-08-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RUYWTZXWT8BX"
+  date_start = "2020-08-03"
   date_end = ""
-  description = "Deep dived into the advanced funtions of MS Excel to get adept with a basic data analysis tool."
+  description = "Acquired basic knowledge of MS Excel in my journey to get adept with data analytics."
 
 [[item]]
   organization = "Coursera"
