@@ -21,8 +21,8 @@ organizations:
 bio: Life is short only if your to-do list is too short.
 
 interests:
-- Behavioral patterns
-- Search Engine Optimization
+- Behavioral Patterns
+- Story Telling
 - Digital Marketing
 - Business Cases
 - Writing
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to restructure the corporate world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. He has prior experience in supply chain management (SCM), digital marketing & content development, search engine optimization (SEO), blogging and sales pitching. 
+MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to redefine the marketing world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. Honing his skills of story telling and leadership ability from his school days, he is a reliable shoulder to lean on when it comes to taking charge. He has prior experience in supply chain management (SCM), digital marketing & content development, search engine optimization (SEO), blogging and sales pitching. 
