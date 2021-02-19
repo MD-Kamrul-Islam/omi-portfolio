@@ -106,7 +106,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Prottoy is a rising EdTech startup based on Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary and higher secondary education so that learning can be made simple, fun and attractive. Responsibilities include:
   
-  * Leading Prottoy Mareting Wing
+  * Leading Prottoy Marketing Wing
   * Sales Boost through social media campaigns 
   * Overseeing marketing communications in social media channels
   * Developing pricing strategy
