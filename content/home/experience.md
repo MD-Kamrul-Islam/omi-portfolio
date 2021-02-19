@@ -24,10 +24,13 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2018-09-01"
   date_end = "2019-04-01"
-  description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market.
+  description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market. As a young freshman in my business school, I along with one partner, started this online bookshop. Although the start-up did not see the face of success, it was one of my stepping stones in life with lots of experience that has helped me in my future career.
   Responsibilities include:
   
   * Social Media Marketing
+  * Social Media Management
+  * Content Creation
+  * Customer Communication
   * Sales Negotiations
   """
 
@@ -53,7 +56,7 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2019-04-25"
   date_end = ""
-  description = """Mentored university admission seekers, especially IBA aspirants, in developing English language proficiency and critical analysis skills.
+  description = """Mentored university undergraduation admission seekers, especially DU-IBA aspirants, in developing English language proficiency and critical analysis ability.
   Responsibilities include:
   
   * Class Co-ordinating
@@ -66,13 +69,16 @@ date_format = "Jan 2006"
   company_url = "https://www.facebook.com/newtonsarchive/"
   location = "Dhaka, Bangladesh"
   date_start = "2019-06-01"
-  date_end = ""
-  description = """Have been working as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh.    
+  date_end = "2020-08-01"
+  description = """Have worked as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh. My tenure here acted as one of the pivotal points in my life that enabled me to learn marketing and to grasp a rudimentary idea of corporate environment.     
   Responsibilities include:
   
   * Value Chain Management
   * Business Analysis
   * Financial Performance Analysis
+  * Product Line Development
+  * Social Media Management
+  * Brand Communication
   """
 
 [[experience]]
@@ -81,13 +87,30 @@ date_format = "Jan 2006"
   company_url = "https://www.vintvalley.com/"
   location = "Dhaka, Bangladesh"
   date_start = "2020-07-01"
-  date_end = ""
-  description = """Administered and developed the official blog for VintVally- 'VintVoice', along with engaging in US and Canada market research for investment analysis.    
+  date_end = "2020-12-01"
+  description = """Administered and developed the official blog for VintVally- ‘VintVoice’, along with engaging in US and Canada market research for investment analysis.    
   Responsibilities include:
   
   * Website Development
-  * Search Enging Optimization
+  * Search Engine Optimization
   * Content Development
+  * Social Media Management
   """
+  
+[[experience]]
+  title = "Chief Marketing Officer"
+  company = "Prottoy"
+  company_url = "https://prottoy.com.bd/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """Prottoy is a rising EdTech startup based on Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary and higher secondary education so that learning can be made simple, fun and attractive. Responsibilities include:
+  
+  * Leading Prottoy Mareting Wing
+  * Sales Boost through social media campaigns 
+  * Overseeing marketing communications in social media channels
+  * Developing pricing strategy
+  * Conducting market research to boost sales figures
+  """  
   
 +++
