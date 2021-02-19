@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-04-01"
   description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market. As a young freshman in my business school, I along with one partner, started this online bookshop. Although the start-up did not see the face of success, it was one of my stepping stones in life with lots of experience that has helped me in my future career.
-  Responsibilities include:
+  Responsibilities included:
   
   * Social Media Marketing
   * Social Media Management
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-01"
   date_end = "2019-10-01"
   description = """Developed consumer targeting strategy with the Content Planning team with a view to increasing consumer engagements for online reads in the digital platform.
-  Responsibilities include:
+  Responsibilities included:
   
   * Project Scheduling
   * Content Writing
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2020-08-01"
   description = """Have worked as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh. My tenure here acted as one of the pivotal points in my life that enabled me to learn marketing and to grasp a rudimentary idea of corporate environment.     
-  Responsibilities include:
+  Responsibilities included:
   
   * Value Chain Management
   * Business Analysis
@@ -89,7 +89,7 @@ date_format = "Jan 2006"
   date_start = "2020-07-01"
   date_end = "2020-12-01"
   description = """Administered and developed the official blog for VintVally- ‘VintVoice’, along with engaging in US and Canada market research for investment analysis.    
-  Responsibilities include:
+  Responsibilities included:
   
   * Website Development
   * Search Engine Optimization
