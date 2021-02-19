@@ -98,7 +98,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Chief Marketing Officer | Co-Founder"
+  title = "Co-Founder & Chief Marketing Officer"
   company = "Prottoy"
   company_url = "https://prottoy.com.bd/"
   location = "Dhaka, Bangladesh"
