@@ -41,21 +41,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "HSBC Business Case Competition"
   organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
-  title = "Semi-Finalist"
+  title = "Quarter-Finalist"
   url = ""
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached semi-finals."
+  description = "Represented IBA-DU as one of the four teams in the national stage and reached national quarterfinal round. However, due to COVID 19 Pandemic, the competition was called off"
 
 [[item]]
-  organization = "International Block Chain Olympiad"
+  organization = "International Blockchain Olympiad"
   organization_url = "https://www.ibcol.org/"
-  title = "Global Qualifier"
+  title = "Global Finalist"
   url = ""
   certificate_url = ""
   date_start = "2020-05-01"
   date_end = ""
-  description = "Qualified for the global round of the Olympiad as the fifth Seed from Bangladesh."
+  description = "In the inaugural version of International Blockchain Olympiad, we as Team TORR qualified for the global round of the Olympiad as the fifth Seed from Bangladesh and reached the final stage."
+
+[[item]]
+  organization = "International Blockchain Olympiad"
+  organization_url = "https://www.ibcol.org/"
+  title = "Global Qualifier"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-02-01"
+  date_end = ""
+  description = "For the returning version of the Olympiad, this time as Team Masala Dosa we secured the national silver medal and we are now looking forward to securing the Global Trophy as the first ones from Bangladesh to do such."
 
 +++
