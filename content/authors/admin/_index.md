@@ -53,7 +53,7 @@ social:
   link: https://www.facebook.com/md.k.islam.omi  
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MDKamru96646425
+  link: https://twitter.com/kiomi920
 - icon: skype
   icon_pack: fab
   link: https://join.skype.com/invite/qkpFxy44DeGI?fbclid=IwAR3ZnbarRsAVulU-3Ag4chQkwc-oM8JegHfidhw1wBt6e45dmRjy9sOQUS8  
