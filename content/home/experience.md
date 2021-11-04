@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   title = "Content Specialist"
   company = "VintValley"
   company_url = "https://www.vintvalley.com/"
-  location = "Dhaka, Bangladesh"
+  location = "Canada / Bangladesh"
   date_start = "2020-07-01"
   date_end = "2020-12-01"
   description = """Administered and developed the official blog for VintVally- ‘VintVoice’, along with engaging in US and Canada market research for investment analysis.    
@@ -107,10 +107,30 @@ date_format = "Jan 2006"
   description = """Prottoy is a rising EdTech startup based on Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary and higher secondary education so that learning can be made simple, fun and attractive. Responsibilities include:
   
   * Leading Prottoy Marketing Wing
-  * Sales Boost through social media campaigns 
-  * Overseeing marketing communications in social media channels
-  * Developing pricing strategy
-  * Conducting market research to boost sales figures
+  * Media Buying
+  * Overseeing Marketing Communications
+  * Developing Pricing Strategy
+  * Conducting Market Research
+  * Overseeing B2C Channel
+  * Brand Activation
+  * Online Campaign Activation
   """  
+
+[[experience]]
+  title = "Content Strategist"
+  company = "Just Storys"
+  company_url = "https://www.facebook.com/juststorysbd/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """Planning & executing content based marketing campaignss for clients like Unilever, Marico, Pran and many other local brands. Also launched the country's first Influencer Summit in my tenure here.    
+  Responsibilities included:
+  
+  * Campaign Copy Writing
+  * Client Handling
+  * Event Planning
+  * Social Media Management
+  * Content Research & Analysis
+  """
   
 +++
