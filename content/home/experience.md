@@ -123,7 +123,7 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2021-09-01"
   date_end = ""
-  description = """Planning & executing content based marketing campaignss for clients like Unilever, Marico, Pran and many other local brands. Also launched the country's first Influencer Summit in my tenure here.    
+  description = """Planning & executing content based marketing campaigns for clients like Unilever, Marico, Pran and many other local brands. Also launched the country's first Influencer Summit in my tenure here.    
   Responsibilities included:
   
   * Campaign Copy Writing
