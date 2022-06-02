@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: Bachelors of Business Adminitration
-    institution: Institute of Business Administration, University of Dhaka
+    institution: IBA, University of Dhaka
     year: 2022
   - course: Higher Secondary Certificate
     institution: Dhaka College, Dhaka
