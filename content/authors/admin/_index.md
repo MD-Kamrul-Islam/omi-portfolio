@@ -32,7 +32,7 @@ education:
   courses:
   - course: Bachelors of Business Adminitration
     institution: Institute of Business Administration, University of Dhaka
-    year: Ongoing
+    year: 2022
   - course: Higher Secondary Certificate
     institution: Dhaka College, Dhaka
     year: 2017
