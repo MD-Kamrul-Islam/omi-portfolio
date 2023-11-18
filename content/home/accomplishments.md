@@ -19,26 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Intra School Debate"
-  organization_url = ""
-  title = "Best Speaker"
-  url = ""
-  certificate_url = ""
-  date_start = "2010-04-01"
-  date_end = ""
-  description = "Became runners-up in the competition and the best speaker in the aggregated judges' scores."
-
-[[item]]
-  organization = "National Essay Competition"
-  organization_url = ""
-  title = "Runners-Up"
-  url = ""
-  certificate_url = ""
-  date_start = "2012-03-01"
-  date_end = ""
-  description = "Stood second in the 'National Independence Day Essay Competition'."
-  
-[[item]]
   organization = "HSBC Business Case Competition"
   organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
   title = "Quarter-Finalist"
@@ -46,17 +26,37 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "Represented IBA-DU as one of the four teams in the national stage and reached national quarterfinal round. However, due to COVID 19 Pandemic, the competition was called off"
+  description = "In one of the premier case solving competitions in Bangladesh, we were one of the 4 representatives from IBA-DU in the national round. However, due to COVID 19 Pandemic, the competition was called off."
 
 [[item]]
   organization = "International Blockchain Olympiad"
   organization_url = "https://www.ibcol.org/"
   title = "Award of Merit"
   url = ""
-  certificate_url = ""
-  date_start = "2020-05-01"
+  certificate_url = "https://drive.google.com/file/d/1USbwZhDj6DcA1A1hWNQ1I_8kDUFT1mpA/view?usp=drive_link"
+  date_start = "2020-07-01"
   date_end = ""
-  description = "In the inaugural version of International Blockchain Olympiad, we as Team TORR qualified for the global round of the Olympiad as the fifth Seed from Bangladesh and reached the final stage."
+  description = "In the inaugural version of the International Blockchain Olympiad, we as Team TORR qualified for the global round with our project MediTech Bangla. We were among the top 12 Global Finalists, and secured an Award of Merit for our project."
+  
+[[item]]
+  organization = "Blockchain Olympiad Bangladesh"
+  organization_url = "https://bcolbd.org/"
+  title = "Rank Five"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/1QGuN2ibDmU9R01jGhLMG99HaNNxwVBcB/view?usp=drive_link"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = "Blockchain Olympiad Bangladesh 2020 was the first of its kind blockchain-based innovation competition, where students from all universities in Bangladesh participated. As part of my team, 'Team TORR' - we secured the 5th seed from Bangladesh and moved onto the global round of the competition."
+
+[[item]]
+  organization = "International Blockchain Olympiad"
+  organization_url = "https://www.ibcol.org/"
+  title = "Award of Merit"
+  url = ""
+  certificate_url = "https://drive.google.com/file/d/14bedXNV87MVsgPj43gIqPcECprfVxoMs/view?usp=drive_link"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = "As part of our success in the national round, we were selected to represent Bangladesh at Hong Kong's global round. However, due to COVID-19, the competition was held online, and we secured an Award of Merit for our project."
 
 [[item]]
   organization = "Blockchain Olympiad Bangladesh"
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/17DJf1-6abybXoK04lSnWPtAUEWdPMEeL/view?usp=drive_link"
   date_start = "2021-03-01"
   date_end = ""
-  description = "As part of Team Masala Dosa, we received the Silver Award (2nd position nationally) for our project on Blockchain-based stock market automation system."
+  description = "Team Masala Dosa, comprising exclusively of business school graduates, secured the distinguished second prize - a silver award - in the Blockchain Olympiad Bangladesh, 2021. We, as a team, worked on developing an innovative blockchain-based project focused on automating stock market processes."
 
 +++
