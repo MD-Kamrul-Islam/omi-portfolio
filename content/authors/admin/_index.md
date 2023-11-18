@@ -64,7 +64,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link:  files/MD-Kamrul-Islam_Resume.pdf
+  link:  static/files/CV_Kamrul.pdf
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
