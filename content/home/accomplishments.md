@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "International Blockchain Olympiad"
   organization_url = "https://www.ibcol.org/"
-  title = "Global Finalist"
+  title = "Award of Merit"
   url = ""
   certificate_url = ""
   date_start = "2020-05-01"
@@ -59,13 +59,13 @@ date_format = "Jan 2006"
   description = "In the inaugural version of International Blockchain Olympiad, we as Team TORR qualified for the global round of the Olympiad as the fifth Seed from Bangladesh and reached the final stage."
 
 [[item]]
-  organization = "International Blockchain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Global Qualifier"
+  organization = "Blockchain Olympiad Bangladesh"
+  organization_url = "https://bcolbd.org/"
+  title = "Silver Award"
   url = ""
-  certificate_url = ""
-  date_start = "2021-02-01"
+  certificate_url = "https://drive.google.com/file/d/17DJf1-6abybXoK04lSnWPtAUEWdPMEeL/view?usp=drive_link"
+  date_start = "2021-03-01"
   date_end = ""
-  description = "For the returning version of the Olympiad, this time as Team Masala Dosa we secured the national silver medal and we are now looking forward to securing the Global Trophy as the first ones from Bangladesh to do such."
+  description = "As part of Team Masala Dosa, we received the Silver Award (2nd position nationally) for our project on Blockchain-based stock market automation system."
 
 +++
