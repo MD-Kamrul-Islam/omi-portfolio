@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Business Undergraduate
+role: Business Graduate | Product Manager
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://iba-du.edu/index.php/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Life is short only if your to-do list is too short.
+bio: In a world where you can be everything, be kind.
 
 interests:
 - Behavioral Patterns
