@@ -93,7 +93,7 @@ address = {street = "Navana Garden", city = "Dhaka", region = "", postcode = "12
 coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 9 and take the stairs to Flat 3-A on Floor 3"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
