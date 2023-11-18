@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Business Graduate | Product Manager
+role: Business School Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -21,24 +21,18 @@ organizations:
 bio: In a world where you can be everything, be kind.
 
 interests:
-- Behavioral Patterns
-- Story Telling
+- Product Management 
+- EdTech Curriculum Development
 - Digital Marketing
-- Business Cases
-- Writing
+- Story Writing
 - Teaching
 
 education:
   courses:
-  - course: Bachelors of Business Adminitration
+  - course: Bachelor of Business Administration
     institution: IBA, University of Dhaka
-    year: 2022
-  - course: Higher Secondary Certificate
-    institution: Dhaka College, Dhaka
-    year: 2017
-  - course: Secondary School Certificate
-    institution: Government Laboratory High School, Dhaka
-    year: 2015
+    year: 2018-2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-MD Kamrul Islam is an enthusiast in business analytics and behavioral patterns. His ambitious dream is to redefine the marketing world by incorporating psychological perspective analysis of consumers and purchasers in order to boost the profitability index of projects. Honing his skills of story telling and leadership ability from his school days, he is a reliable shoulder to lean on when it comes to taking charge. He has prior experience in supply chain management (SCM), digital marketing & content development, search engine optimization (SEO), blogging and sales pitching. 
+Will have to fix this. 
