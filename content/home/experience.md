@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2022-09-01"
   date_end = ""
   description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I am affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
+  
   Responsibilities include:
   
   * Digital Product Management
@@ -42,6 +43,7 @@ date_format = "Jan 2006"
   date_start = "2022-06-13"
   date_end = ""
   description = """Ilmiya is an AI-powered education platform that personalizes the student journey, automatically optimizes learning outcomes, and proactively engages with learners at the right time. Immersive, intelligent infrastructure for K12 AI-powered personalized learning. At Ilmiya, we are set on closing the achievement gap for the global Muslim community.
+  
   Responsibilities include:
   
   * Content & Curriculum Development
@@ -58,6 +60,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = "2022-09-30"
   description = """Prottoy is a rising EdTech startup based in Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary, and higher secondary education so that learning can be made simple, fun and attractive. In my tenure as the CMO, we raised a grand total of $50,000 in pre-seed and seed funding rounds. 
+  
   Responsibilities included:
   
   * Brand Activation
