@@ -48,6 +48,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/md-k-islam/
+- icon: whatsapp
+  icon_pack: fab
+  link: https://wa.link/7m93up 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   
@@ -61,4 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am a novice product manager, a passionate storyteller, an experienced teacher, a blockchain enthusiast, and, most importantly, a good listener. So, if any of these things pique your interest, I would love to discuss more about it. And if we have nothing in common, I would love to learn by listening to you - perhaps over a cup of coffee - in person or virtually! 
+I am a novice product manager, a passionate storyteller, an experienced teacher, a blockchain enthusiast, and, most importantly, a good listener. So, if any of these things pique your interest, I would love to discuss more about it. 
+
+And if we have nothing in common, I would love to learn by listening to you - perhaps over a cup of coffee - in person or virtually! 
