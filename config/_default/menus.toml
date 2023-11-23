@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Portfolio"
+  name = "Experiences"
   url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Accomplishments"
+  name = "Creative Works"
   url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "Blogs"
+  name = "Accomplishments"
   url = "#posts"
   weight = 40
 
@@ -31,6 +31,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "Resume"
+  name = "CV"
   url = "https://drive.google.com/file/d/1GuH_-3BNvJJxShWbY2wBv2RD5i-JzuxA/view?usp=drive_link"
   weight = 70
