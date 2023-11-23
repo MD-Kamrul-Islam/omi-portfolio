@@ -22,14 +22,14 @@ bio: In a world where you can be everything, be kind.
 
 interests:
 - Product Management 
-- EdTech Curriculum Development
+- EdTech Curriculum
 - Digital Marketing
 - Story Writing
 - Teaching
 
 education:
   courses:
-  - course: Bachelor of Business Administration
+  - course: B.B.A.
     institution: IBA, University of Dhaka
     year: 2018-2022
 
@@ -44,21 +44,12 @@ social:
   link: mailto:kiomi920@gmail.com
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/md.k.islam.omi  
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/kiomi920
-- icon: skype
-  icon_pack: fab
-  link: https://join.skype.com/invite/qkpFxy44DeGI?fbclid=IwAR3ZnbarRsAVulU-3Ag4chQkwc-oM8JegHfidhw1wBt6e45dmRjy9sOQUS8  
+  link: https://www.facebook.com/md.k.islam.omi    
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/md-k-islam/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/1MCamqRcLNL0UiPsYcR0gwWWhziLxExR1/view?usp=drive_link
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Will have to fix this. 
+I am a novice product manager, a passionate storyteller, an experienced teacher, a blockchain enthusiast, and, most importantly, a good listener. So, if any of these things pique your interest, I would love to discuss more about it. And if we have nothing in common, I would love to learn by listening to you - perhaps over a cup of coffee - in person or virtually! 
