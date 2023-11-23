@@ -18,119 +18,54 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Co-Founder & Co-Owner"
-  company = "Paperman-BD"
-  company_url = "https://www.facebook.com/papermanBD/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2018-09-01"
-  date_end = "2019-04-01"
-  description = """Paperman-BD is an online book store offering a wide range of fictional and non-fictional books all over the country with the most affordable price in the market. As a young freshman in my business school, I along with one partner, started this online bookshop. Although the start-up did not see the face of success, it was one of my stepping stones in life with lots of experience that has helped me in my future career.
-  Responsibilities included:
-  
-  * Social Media Marketing
-  * Social Media Management
-  * Content Creation
-  * Customer Communication
-  * Sales Negotiations
-  """
-
-[[experience]]
-  title = "Strategic Content Planner & Contributor"
-  company = "Upthrust.Co"
-  company_url = "http://upthrust.co/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2018-11-01"
-  date_end = "2019-10-01"
-  description = """Developed consumer targeting strategy with the Content Planning team with a view to increasing consumer engagements for online reads in the digital platform.
-  Responsibilities included:
-  
-  * Project Scheduling
-  * Content Writing
-  * Content Planning
-  """
-
-[[experience]]
-  title = "English & Analytical Instructor"
-  company = "Mentors'"
-  company_url = "https://www.mentors.com.bd/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2019-04-25"
+  title = "Product Brand Manager"
+  company = "Girmairi"
+  company_url = "https://girmairi.com/"
+  location = "Remote, United States"
+  date_start = "2022-09-01"
   date_end = ""
-  description = """Mentored university undergraduation admission seekers, especially DU-IBA aspirants, in developing English language proficiency and critical analysis ability.
+  description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I am affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
   Responsibilities include:
   
-  * Class Co-ordinating
-  * Academic Content Writing
+  * Digital Product Management
+  * Product Design Development
+  * B2B Sales & Marketing Communication
+  * Brand Management
+  * SEO Copywriting
   """
 
 [[experience]]
-  title = "Value Chain Manager"
-  company = "Newton's Archive"
-  company_url = "https://www.facebook.com/newtonsarchive/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2019-06-01"
-  date_end = "2020-08-01"
-  description = """Have worked as the overseer of the supply chain process and as a product developer for the pioneering scented-candle brand in Bangladesh. My tenure here acted as one of the pivotal points in my life that enabled me to learn marketing and to grasp a rudimentary idea of corporate environment.     
-  Responsibilities included:
+  title = "Curriculum Manager"
+  company = "Ilmiya"
+  company_url = "https://ilmiya.com/"
+  location = "Remote, United States"
+  date_start = "2022-06-13"
+  date_end = ""
+  description = """Ilmiya is an AI-powered education platform that personalizes the student journey, automatically optimizes learning outcomes, and proactively engages with learners at the right time. Immersive, intelligent infrastructure for K12 AI-powered personalized learning. At Ilmiya, we are set on closing the achievement gap for the global Muslim community.
+  Responsibilities include:
   
-  * Value Chain Management
-  * Business Analysis
-  * Financial Performance Analysis
-  * Product Line Development
-  * Social Media Management
-  * Brand Communication
+  * Content & Curriculum Development
+  * Project Management
+  * Resource Recruitment
+  * Product Development
   """
 
 [[experience]]
-  title = "Content Specialist"
-  company = "VintValley"
-  company_url = "https://www.vintvalley.com/"
-  location = "Canada / Bangladesh"
-  date_start = "2020-07-01"
-  date_end = "2020-12-01"
-  description = """Administered and developed the official blog for VintVally- ‘VintVoice’, along with engaging in US and Canada market research for investment analysis.    
-  Responsibilities included:
-  
-  * Website Development
-  * Search Engine Optimization
-  * Content Development
-  * Social Media Management
-  """
-  
-[[experience]]
-  title = "Co-Founder & Chief Marketing Officer"
+  title = "CMO & Co-founder"
   company = "Prottoy"
-  company_url = "https://prottoy.com.bd/"
+  company_url = "https://www.prottoy.com.bd/"
   location = "Dhaka, Bangladesh"
   date_start = "2020-08-01"
-  date_end = ""
-  description = """Prottoy is a rising EdTech startup based on Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary and higher secondary education so that learning can be made simple, fun and attractive. Responsibilities include:
+  date_end = "2022-09-30"
+  description = """Prottoy is a rising EdTech startup based in Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary, and higher secondary education so that learning can be made simple, fun and attractive. In my tenure as the CMO, we raised a grand total of $50,000 in pre-seed and seed funding rounds. 
+  Responsibilities included:
   
-  * Leading Prottoy Marketing Wing
-  * Media Buying
-  * Overseeing Marketing Communications
-  * Developing Pricing Strategy
-  * Conducting Market Research
-  * Overseeing B2C Channel
   * Brand Activation
-  * Online Campaign Activation
-  """  
-
-[[experience]]
-  title = "Content Strategist"
-  company = "Just Storys"
-  company_url = "https://www.facebook.com/juststorysbd/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2021-09-01"
-  date_end = ""
-  description = """Planning & executing content based marketing campaigns for clients like Unilever, Marico, Pran and many other local brands. Also launched the country's first Influencer Summit in my tenure here.    
-  Responsibilities include:
-  
-  * Campaign Copy Writing
-  * Client Handling
-  * Event Planning
-  * Social Media Management
-  * Content Research & Analysis
+  * Social Media Campaigns
+  * Market Research
+  * Content Curation
+  * Team Leading
   """
+
   
 +++
