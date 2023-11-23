@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: B.B.A.
+  - course: Bachelors of Business Administration
     institution: IBA, University of Dhaka
-    year: 2018-2022
+    year: 2018-22
 
 
 # Social/Academic Networking
