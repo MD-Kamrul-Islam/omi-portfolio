@@ -1,5 +1,5 @@
 +++
-title = "মেঘ ভেলার মাঝি"
+title = "Bengali Short Story: মেঘ ভেলার মাঝি"
 
 date = 2019-04-13T00:00:00
 lastmod = 2019-04-17T00:22:35
@@ -8,8 +8,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MD Kamrul Islam"]
 
-tags = ["Rainy Days"]
-summary = "In the rain water lies solace and bliss thou looked for in your long tedious journey"
+tags = ["Stories by Me"]
+summary = "In the rainwater lies solace and bliss thou looked for in your long tedious journey"
 
 [header]
 image = ""
@@ -57,9 +57,8 @@ caption = ""
 
 বাইরে বেশ গরম। দুই ঘণ্টা এ.সি. রুমে কাটিয়ে আসায় এখনো ঘামতে শুরু করিনি। কিন্তু এই জ্যামে আর মিনিটদশেক বাস থেমে থাকলেই, ঘেমে গোসল হয়ে যাব। তবুও, আমার রোদই ভাল লাগে। বৃষ্টি হলে রাস্তায় কাদা হয়ে সে এক বিতিকিচ্ছিরি অবস্থা। হাঁটতে গেলেই স্যান্ডেলে কাদা ঢুকে যায়। আমি বাসের জানালা দিয়ে বাইরে তাকিয়ে ফুটপাতে হেঁটে চলা মানুষের ঢল দেখছি। আজ বারী ভাই ক্লাসে ‘বব মারলে’ নামে একজনের একটা গান শুনতে বলেছিল। The Wailing Wailers অ্যালবামের I’m Still Waiting। যেই কবিতা থেকে এই গানের লিরিক্স নেয়া হয়েছিল তার কয়েকটি লাইনও বারী ভাই বলেছিলেন-
 
-       '…. I just can’t tell the raindrops from my teardrops
-         Falling down my face. Look at it,
-         It doesn’t really raindrops ….' 
+'…. I just can’t tell the raindrops from my teardrops / Falling down my face.
+Look at it, It doesn’t really raindrops ….'
 
 আমি জিজ্ঞেস করেছিলাম, “ভাইয়া, “it doesn’t really raindrops”- এইটা কি গ্রামাটিকালি কারেক্ট?”। বারী ভাই হেসে বলেছিলেন, “আরে, এইটা তো গান একটা, সুর মেলানোর জন্য এভাবে বলেছে। আর এম্নিতেও যে খুব একটা ইনকারেক্ট তাও না। বললে এভাবে বলাই যায়।”
 
