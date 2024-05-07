@@ -31,10 +31,10 @@ interests:
 education:
   courses:
   - course: MS in Information Technology & Management
-    institution: [University of Texas at Dallas](https://jindal.utdallas.edu/)
+    institution: University of Texas at Dallas
     year: 2024-Now
   - course: Bachelors of Business Administration
-    institution: [IBA, University of Dhaka](https://iba-du.edu/index.php/home)
+    institution: IBA, University of Dhaka
     year: 2018-2022
 
 
