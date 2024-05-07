@@ -18,13 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Learning Development Lead"
+  company = "Complya"
+  company_url = "https://complya.com/"
+  location = "Remote, United States"
+  date_start = "2024-05-01"
+  date_end = ""
+  description = """Complya is a Techstars portfolio company that helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. As the Learning Development Lead, I am spearheading the content team to procure and publish a wide array of short professional development courses.
+  
+  Responsibilities include:
+  
+  * Course & Curriculum Development
+  * Project Management
+  * LMS Platform Activation
+  * Product Development
+  """
+
+[[experience]]
   title = "Product Brand Manager"
   company = "Girmairi"
   company_url = "https://girmairi.com/"
   location = "Remote, United States"
   date_start = "2022-09-01"
-  date_end = ""
-  description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I am affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
+  date_end = "2024-04-15"
+  description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I was affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
   
   Responsibilities include:
   
@@ -41,7 +58,7 @@ date_format = "Jan 2006"
   company_url = "https://ilmiya.com/"
   location = "Remote, United States"
   date_start = "2022-06-13"
-  date_end = ""
+  date_end = "2024-02-24"
   description = """Ilmiya is an AI-powered education platform that personalizes the student journey, automatically optimizes learning outcomes, and proactively engages with learners at the right time. Immersive, intelligent infrastructure for K12 AI-powered personalized learning. At Ilmiya, we are set on closing the achievement gap for the global Muslim community.
   
   Responsibilities include:
