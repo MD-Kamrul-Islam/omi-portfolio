@@ -56,7 +56,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = "https://drive.google.com/file/d/1emekCw_hyOgRHpJPCtiYJ3Y7hCY7ouRT/view?usp=sharing"
-url_video = "https://youtu.be/D8pHsEBuGSA"
+url_video = ""
 url_poster = "https://drive.google.com/drive/folders/1FkaPu1Z7HOEDQWMM_KAio1uc2cQ-91ki"
 url_source = ""
 
