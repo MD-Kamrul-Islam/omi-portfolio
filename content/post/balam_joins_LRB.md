@@ -27,6 +27,8 @@ LRB Manager, Shamim Ahmed said, “Since his (Ayub Bachchu’s) departure we had
 
 He also hinted that, Tazwar Ayub (Ayub Bachchu’s son) might join the band after he finishes his studies abroad. Tazwar has been seen in quite a few scheduled concerts after the sudden demise of his father.
 
+{{< figure src="/img/invarient-representations.png" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004). " numbered="true" lightbox="true" width="50%">}}
+
 Balam’s official debut as part of LRB, might come on the eve of Pahela Boishakh (14th April) although no official venue has been decided. Balam is a renowned figure in Bangladesh’s Music Industry, having been the vocalist of popular band Warfaze alongside a successful solo career. However, Balam has big shoes to fill and a huge fan base to satisfy. Only time can tell how Balam’s latest venture in his veteran career in going to turn out.
 
 Initially formed by Ayub Bachchu, S I Tutul, Saidul Hasan Swapan, Habib Anwar Joy back in 1991, LRB has released 14 albums till date with over 2500 gigs at home and abroad. With Balam’s inclusion here is the band’s current line-up: Saidul Hasan Swapan on bass guitar, Masud on second guitar and second voice, Romel on drums, Shamim Ahmed as sound engineer and manager and Balam as the vocalist and guitarist.
