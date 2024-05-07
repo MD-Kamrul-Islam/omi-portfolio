@@ -44,7 +44,7 @@ projects = []
 tags = ["Blockchain", "Stock Market", "Smart Contracts"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/drive/folders/1hUnGK12O3kW6m4Dhwk6TfM_8ok_S3UlR"
+url_pdf = "https://drive.google.com/file/d/1sPR_smTXCe5H8h0wfwZ6hmGpxAJWkBv-/view?usp=drive_link"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
