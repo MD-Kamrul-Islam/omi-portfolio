@@ -24,13 +24,13 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Portfolio"
+  url = "https://drive.google.com/file/d/1GqIa-udmlu6bXLUe7mXkJPD4WL2bo0iZ/view?usp=drive_link"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "static/files/Resume_MD Kamrul Islam.pdf"
+  url = "https://drive.google.com/file/d/1rDzdk4Ee0oc2DS5DFDF9tSe7-N-4OFLF/view?usp=drive_link"
   weight = 70
