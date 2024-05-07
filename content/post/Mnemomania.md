@@ -12,7 +12,7 @@ tags = ["Event Activation"]
 summary = "Mnemomania - the first of its kind Memory Olympiad in Bangladesh was one of the most successful online event in quarantine times - this paved the way for us to reach students from every spectrum of the education group and class."
 
 [header]
-image = "/img/Mnemomania - Event Banner.jpg"
+image = ""
 caption = ""
 
 +++
