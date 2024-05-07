@@ -1,6 +1,6 @@
 +++
 title = "AutoStock: Stock Market Meets Blockchain"
-date = 2020-03-21T21:53:11-05:00
+date = 2021-03-21T21:53:11-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
