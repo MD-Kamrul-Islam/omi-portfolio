@@ -29,26 +29,6 @@ date_format = "Jan 2006"
   description = "In one of the premier case solving competitions in Bangladesh, we were one of the 4 representatives from IBA-DU in the national round. However, due to COVID 19 Pandemic, the competition was called off."
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org/"
-  title = "Introduction to Psychology"
-  url = "https://www.coursera.org/learn/introduction-psychology"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XPHCJW8DMAMK"
-  date_start = "2020-07-29"
-  date_end = ""
-  description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org/"
-  title = "Excel Skills For Business: Essentials"
-  url = "https://www.coursera.org/learn/excel-essentials"
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RUYWTZXWT8BX"
-  date_start = "2020-08-03"
-  date_end = ""
-  description = "Acquired basic knowledge of MS Excel in my journey to get adept with data analytics."  
-
-[[item]]
   organization = "International Blockchain Olympiad"
   organization_url = "https://www.ibcol.org/"
   title = "Award of Merit"
