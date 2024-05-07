@@ -22,10 +22,7 @@ publication = "International Blockchain Olympiad"
 publication_short = "IBCOL"
 
 # Abstract and optional shortened version.
-abstract = "
-The project involved the development of a prototype for a blockchain-based solution, with a specific focus on addressing governance challenges within business networks and infrastructure management. To achieve this, two distinct blockchain technologies were employed: Hyperledger Fabric and BigchainDB.
-
-Hyperledger Fabric was chosen for its robust features tailored for business network governance. It provided the framework necessary to establish and maintain a secure and decentralized network of participants, ensuring transparency and accountability in business transactions. Through the use of smart contracts, Hyperledger Fabric enabled the automation of various governance processes, such as consensus mechanisms and transaction validation, thereby streamlining operations and reducing the risk of fraudulent activities.
+abstract = "The project involved the development of a prototype for a blockchain-based solution, with a specific focus on addressing governance challenges within business networks and infrastructure management. To achieve this, two distinct blockchain technologies were employed: Hyperledger Fabric and BigchainDB. Hyperledger Fabric was chosen for its robust features tailored for business network governance. It provided the framework necessary to establish and maintain a secure and decentralized network of participants, ensuring transparency and accountability in business transactions. Through the use of smart contracts, Hyperledger Fabric enabled the automation of various governance processes, such as consensus mechanisms and transaction validation, thereby streamlining operations and reducing the risk of fraudulent activities.
 
 In parallel, BigchainDB was utilized to address governance aspects related to infrastructure management. As a scalable and decentralized database, BigchainDB offered a reliable platform for storing and managing large volumes of data pertaining to infrastructure assets. By leveraging its capabilities, the prototype aimed to enhance the traceability and integrity of infrastructure-related information, enabling stakeholders to track asset ownership, maintenance records, and other critical data in a secure and tamper-proof manner.
 
