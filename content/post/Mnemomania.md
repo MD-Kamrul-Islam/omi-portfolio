@@ -30,6 +30,7 @@ In January 2021, our vision came to life as we launched the first-ever Memory Ol
 The olympiad itself featured a dynamic array of activities, including IQ problem-solving sessions, riddles, and a grand exam comprising three distinct tests: text-based memory assessment, video-based memory challenges, and an IQ test. The response was nothing short of phenomenal, with an astounding 1316 participants showcasing their talents and competing for top honors.
 
 Here is the event introduction video shot at my place: [YouTube](https://youtu.be/gW7dGphQ_nw)
+[![Welcome to Mnemomania: The Memory Olympiad](https://img.youtube.com/vi/gW7dGphQ_nw/0.jpg)](https://www.youtube.com/watch?v=gW7dGphQ_nw)
 
 The success of the Memory Olympiad extended beyond the event itself, as reflected in the remarkable engagement and outreach achieved on social media platforms. During the event week alone, our Facebook page witnessed an organic reach of over 150,000, underscoring the widespread interest and participation in the olympiad. Additionally, the event served as a catalyst for driving growth and engagement for Prottoy EdTech, generating 1896 leads and resulting in the sale of over 500 subscriptions to our learning app.
 
