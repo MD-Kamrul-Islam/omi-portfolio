@@ -1,0 +1,78 @@
++++
+title = "Meditech Bangla: A Block-chain Based 'Easy Health Record' System"
+date = 2020-03-21T21:53:11-05:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["MD Kamrul Islam, Tasnuva Ashraf Umama, Abu Rafi Md. Arif Rayhan, Rafid Ibrahim Hasan"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["4"]
+
+# Publication name and optional abbreviated version.
+publication = "International Blockchain Olympiad"
+publication_short = "IBCOL"
+
+# Abstract and optional shortened version.
+abstract = "The project involved prototyping a blockchain solution to tackle governance challenges in business networks and infrastructure management. Hyperledger Fabric was utilized for business network governance, offering secure, decentralized transaction management through smart contracts, ensuring transparency and efficiency. Concurrently, BigchainDB facilitated infrastructure governance by providing a scalable and tamper-proof database for managing asset data. This integration aimed to streamline operations, enhance transparency, and address key governance issues across business and infrastructure domains."
+
+abstract_short = "Blockchain-based Electronic Health Record System"
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Blockchain", "Health Record Systems", "MediTech"]
+
+# Links (optional).
+url_pdf = "https://drive.google.com/file/d/1TrxzAesulMy3gmAQoZHQojR0khslofrP/view?usp=sharing"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = "https://drive.google.com/file/d/1emekCw_hyOgRHpJPCtiYJ3Y7hCY7ouRT/view?usp=sharing"
+url_video = ""
+url_poster = "https://drive.google.com/drive/folders/1FkaPu1Z7HOEDQWMM_KAio1uc2cQ-91ki"
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Does this page require source code highlighting? (true/false)
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+{{< figure src="/img/multi-scale-CNN-for-semantic-segmentation.jpg" title="Overall model of the blood vessel extractor." >}}
