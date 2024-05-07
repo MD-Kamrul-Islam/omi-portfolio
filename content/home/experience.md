@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_end = "2024-04-15"
   description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I was affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
   
-  Responsibilities include:
+  Responsibilities included:
   
   * Digital Product Management
   * Product Design Development
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   date_end = "2024-02-24"
   description = """Ilmiya is an AI-powered education platform that personalizes the student journey, automatically optimizes learning outcomes, and proactively engages with learners at the right time. Immersive, intelligent infrastructure for K12 AI-powered personalized learning. At Ilmiya, we are set on closing the achievement gap for the global Muslim community.
   
-  Responsibilities include:
+  Responsibilities included:
   
   * Content & Curriculum Development
   * Project Management
