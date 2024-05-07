@@ -29,6 +29,26 @@ date_format = "Jan 2006"
   description = "In one of the premier case solving competitions in Bangladesh, we were one of the 4 representatives from IBA-DU in the national round. However, due to COVID 19 Pandemic, the competition was called off."
 
 [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Introduction to Psychology"
+  url = "https://www.coursera.org/learn/introduction-psychology"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XPHCJW8DMAMK"
+  date_start = "2020-07-29"
+  date_end = ""
+  description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Excel Skills For Business: Essentials"
+  url = "https://www.coursera.org/learn/excel-essentials"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RUYWTZXWT8BX"
+  date_start = "2020-08-03"
+  date_end = ""
+  description = "Acquired basic knowledge of MS Excel in my journey to get adept with data analytics."  
+
+[[item]]
   organization = "International Blockchain Olympiad"
   organization_url = "https://www.ibcol.org/"
   title = "Award of Merit"
@@ -38,25 +58,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "In the inaugural version of the International Blockchain Olympiad, we as Team TORR qualified for the global round with our project MediTech Bangla. We were among the top 12 Global Finalists, and secured an Award of Merit for our project."
   
-[[item]]
-  organization = "Blockchain Olympiad Bangladesh"
-  organization_url = "https://bcolbd.org/"
-  title = "Rank Five"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/1QGuN2ibDmU9R01jGhLMG99HaNNxwVBcB/view?usp=drive_link"
-  date_start = "2020-03-01"
-  date_end = ""
-  description = "Blockchain Olympiad Bangladesh 2020 was the first of its kind blockchain-based innovation competition, where students from all universities in Bangladesh participated. As part of my team, 'Team TORR' - we secured the 5th seed from Bangladesh and moved onto the global round of the competition."
-
-[[item]]
-  organization = "International Blockchain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Award of Merit"
-  url = ""
-  certificate_url = "https://drive.google.com/file/d/14bedXNV87MVsgPj43gIqPcECprfVxoMs/view?usp=drive_link"
-  date_start = "2021-10-01"
-  date_end = ""
-  description = "As part of our success in the national round, we were selected to represent Bangladesh at Hong Kong's global round. However, due to COVID-19, the competition was held online, and we secured an Award of Merit for our project."
 
 [[item]]
   organization = "Blockchain Olympiad Bangladesh"
