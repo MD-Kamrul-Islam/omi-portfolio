@@ -22,13 +22,7 @@ publication = "International Blockchain Olympiad"
 publication_short = "IBCOL"
 
 # Abstract and optional shortened version.
-abstract = "The project involved the development of a prototype for a blockchain-based solution, with a specific focus on addressing governance challenges within business networks and infrastructure management. To achieve this, two distinct blockchain technologies were employed: Hyperledger Fabric and BigchainDB. Hyperledger Fabric was chosen for its robust features tailored for business network governance. It provided the framework necessary to establish and maintain a secure and decentralized network of participants, ensuring transparency and accountability in business transactions. Through the use of smart contracts, Hyperledger Fabric enabled the automation of various governance processes, such as consensus mechanisms and transaction validation, thereby streamlining operations and reducing the risk of fraudulent activities.
-
-In parallel, BigchainDB was utilized to address governance aspects related to infrastructure management. As a scalable and decentralized database, BigchainDB offered a reliable platform for storing and managing large volumes of data pertaining to infrastructure assets. By leveraging its capabilities, the prototype aimed to enhance the traceability and integrity of infrastructure-related information, enabling stakeholders to track asset ownership, maintenance records, and other critical data in a secure and tamper-proof manner.
-
-By combining Hyperledger Fabric and BigchainDB, the prototype sought to provide a comprehensive solution for governing both business networks and infrastructure assets. Through the integration of these technologies, the project aimed to address key governance challenges faced by organizations, such as ensuring data integrity, facilitating transparent decision-making processes, and enhancing overall operational efficiency.
-
-The project was well received in the inaugural blockchain olympid of Bangladesh and we secured 5th position in a nationwide competition. Following our national success, we represented Bangladesh on the Global stage and for our unique idea to integrate blockchain solution within the medical sector, we received the Award of Merit."
+abstract = "hello"
 
 abstract_short = "Blockchain-based Electronic Health Record System"
 
@@ -56,7 +50,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = "https://drive.google.com/file/d/1emekCw_hyOgRHpJPCtiYJ3Y7hCY7ouRT/view?usp=sharing"
-url_video = ""
+url_video = "https://youtu.be/D8pHsEBuGSA"
 url_poster = "https://drive.google.com/drive/folders/1FkaPu1Z7HOEDQWMM_KAio1uc2cQ-91ki"
 url_source = ""
 
