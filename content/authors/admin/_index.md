@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a business graduate, an aspiring product manager, a passionate storyteller, an experienced educator, and a board game enthusiast. So, if any of these things pique your interest, I would love to discuss more about it. 
+I am a business graduate, an aspiring product manager, a passionate storyteller, an experienced educator, and a board games enthusiast. So, if any of these things pique your interest, I would love to discuss more about it. 
 
 And if we have nothing in common, I would love to learn by listening to you - perhaps over a cup of coffee - in person or virtually! 
