@@ -10,28 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Business School Graduate
+role: Learning Development Lead
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Business Administration, University of Dhaka
-  url: "https://iba-du.edu/index.php/home"
+- name: Complya | Techstars‘24
+  url: "https://complya.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In a world where you can be everything, be kind.
 
 interests:
 - Product Management 
-- EdTech Curriculum
-- Digital Marketing
+- Business Analytics
+- LMS & EdTech Curriculum
 - Story Writing
 - Teaching
+- Board Games
 
 education:
   courses:
+  - course: MS in Information Technology & Management
+    institution: University of Texas at Dallas
+    year: 2024-Now
   - course: Bachelors of Business Administration
     institution: IBA, University of Dhaka
-    year: 2018-22
+    year: 2018-2022
 
 
 # Social/Academic Networking
