@@ -24,7 +24,7 @@ After extensive brainstorming and planning sessions with our marketing team, we 
 
 In January 2021, our vision came to life as we launched the first-ever Memory Olympiad in Bangladesh, welcoming over 1300 enthusiastic participants to test their cognitive skills in a series of engaging challenges. The event marked a significant milestone, not only for Prottoy EdTech but also for the educational landscape of Bangladesh, as it transcended traditional subject-based competitions and delved into the realm of cognitive development and memory enhancement.
 
-{{< figure src="/img/Resume-photo.jpeg" title="Mnemomania Event Title Card".  " numbered="false" lightbox="true" width="50%">}}
+{{< figure src="/img/Mnemomania - Event Banner.jpeg" title="Mnemomania Event Title Card".  " numbered="false" lightbox="true" width="50%">}}
 
 ## Launch of Mnemomania
 The olympiad itself featured a dynamic array of activities, including IQ problem-solving sessions, riddles, and a grand exam comprising three distinct tests: text-based memory assessment, video-based memory challenges, and an IQ test. The response was nothing short of phenomenal, with an astounding 1316 participants showcasing their talents and competing for top honors.
@@ -33,7 +33,7 @@ Here is the event introduction video shot at my place: [YouTube](https://youtu.b
 
 The success of the Memory Olympiad extended beyond the event itself, as reflected in the remarkable engagement and outreach achieved on social media platforms. During the event week alone, our Facebook page witnessed an organic reach of over 150,000, underscoring the widespread interest and participation in the olympiad. Additionally, the event served as a catalyst for driving growth and engagement for Prottoy EdTech, generating 1896 leads and resulting in the sale of over 500 subscriptions to our learning app.
 
-{{< figure src="/img/Resume-photo.jpeg" title="Closing Ceremony of Mnemomania: The Memory Olympiad" numbered="false" lightbox="true" width="50%">}}
+{{< figure src="/img/Closing Ceremony.png" title="Closing Ceremony of Mnemomania: The Memory Olympiad" numbered="false" lightbox="true" width="50%">}}
 
 Mnemomania's first iteration was a huge success and we planned to launch Mnemomania 2.0 in year 2022, and the World Memory Sports Council was even interested to expand their operations in Bangladesh, unfortunately due to lack of sponsors and budgets, the discussion did not continue further.
 
