@@ -56,4 +56,4 @@ In an usual human brain, different regions of neo-cortex are assigned with diffe
 
 Neo-cortex uses heirarchical memory storage system with feedback signals to predict about our next experience. This predictions process is never-ending but our attention is drawn towards them when the prediction do no meet the experience (input through sensors). As the signal travels up the hierarchy, the signal gets converted from being spatially variant, fast changing, small-scale-features into spatially invariant, slow changing, large-scale-features.
 
-{{< figure src="/img/Alche.jpg" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
+{{< figure src="/img/Resume-photo.jpeg" title="Forming invariant representations in hearing, vision, and touch. Images from On Intelligence (2004).  " numbered="true" lightbox="true" width="50%">}}
