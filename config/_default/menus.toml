@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Creative Works"
-  url = "#posts"
+  name = "Awards & Recognition"
+  url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "Creative Works"
+  url = "#posts"
   weight = 40
 
 [[main]]
