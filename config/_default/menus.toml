@@ -14,17 +14,22 @@
   weight = 20
 
 [[main]]
-  name = "Awards & Recognition"
+  name = "Awards & Projects"
   url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "Creative Works"
+  name = "Notable Works"
   url = "#posts"
   weight = 40
 
 [[main]]
-  name = "Portfolio"
+  name = "Design Portfolio"
+  url = "https://drive.google.com/drive/folders/1NrJYrL-iQ2Uc6_I4dku06iX5DD38-6NZ?usp=sharing"
+  weight = 50
+
+[[main]]
+  name = "Writing Portfolio"
   url = "https://www.canva.com/design/DAF0gP-CbYg/Fb9vMwApJgB6PNn-W_QDqQ/view?utm_content=DAF0gP-CbYg&utm_campaign=designshare&utm_medium=link&utm_source=editor"
   weight = 60
 
@@ -32,5 +37,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https://drive.google.com/file/d/1rDzdk4Ee0oc2DS5DFDF9tSe7-N-4OFLF/view?usp=drive_link"
+  url = "/files/Resume_MD Kamrul Islam.pdf"
   weight = 70
