@@ -14,22 +14,22 @@
   weight = 20
 
 [[main]]
-  name = "Awards & Projects"
-  url = "#accomplishments"
+  name = "Projects"
+  url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Notable Works"
-  url = "#posts"
+  name = "Awards"
+  url = "#accomplishments"
   weight = 40
 
 [[main]]
-  name = "Design Portfolio"
+  name = "Designer Portfolio"
   url = "https://drive.google.com/drive/folders/1NrJYrL-iQ2Uc6_I4dku06iX5DD38-6NZ?usp=sharing"
   weight = 50
 
 [[main]]
-  name = "Writing Portfolio"
+  name = "Writer Portfolio"
   url = "https://www.canva.com/design/DAF0gP-CbYg/Fb9vMwApJgB6PNn-W_QDqQ/view?utm_content=DAF0gP-CbYg&utm_campaign=designshare&utm_medium=link&utm_source=editor"
   weight = 60
 
