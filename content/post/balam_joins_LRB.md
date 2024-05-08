@@ -1,5 +1,5 @@
 +++
-title = "Balam Takes Up Lead Vocalist Role in LRB"
+title = "Organizing the Biggest Influencer Award Show of Bangladesh: Marvel of Tomorrow (Season 1)"
 
 date = 2019-04-13T00:00:00
 lastmod = 2019-04-17T00:22:35
@@ -8,8 +8,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MD Kamrul Islam"]
 
-tags = ["Ayub Bacchu" , "Balam" , "Bangladesh" , "LRB" , "Music"]
-summary = "Balam Takes Up Lead Vocalist Role in LRB, Promises to do Right by Ayub Bacchu’s Legacy"
+tags = ["Event Activation"]
+summary = "Marvel of Tomorrow brings you the first of its kind influencer summit & award event in Bangladesh."
 
 [header]
 image = ""
@@ -17,16 +17,23 @@ caption = ""
 
 +++
 
-## Iconic Bangladeshi Band LRB (Love Runs Blind) kick starts their 29th year by giving the answer to the much-speculated question on their lead vocalist as Popular music artist Balam joins the band.
 
-LRB celebrates their 28-year anniversary at Café Thirty3 for the first time without their lead vocalist and the legendary musician Ayub Bachchu. The event tagline – “The Legacy Continues” was the audiences’ first clue that LRB were about to announce their newest member on their roster. Although many fans were speculating for Ahnaf Tazwar Ayub to fill up his father’s shoes, the announcement came as a surprising turn of event with Balam (Kazi Md Ali Jahangir) joining the band as lead vocalist and guitarist.
+## Introduction
+During my time at JustStorys as a content developer, I had the incredible opportunity to contribute to the groundbreaking influencer award show, "Marvel of Tomorrow." Amidst my ongoing projects at JustStorys, the prospect of being part of an event where Bangladesh's elite would gather for a night of celebration was too enticing to pass up. In this piece, I aim to share my memorable experience at the event and the pivotal roles I played in ensuring its success.
 
-About his joining and the enormous pressure of living up to the legacy of AB (Ayub Bachchu), Balam remarked, “The place that Bachchu Bhai held (in the music industry) , that’s not possible for any musician to live up to (…) There is no issue of replacement here, don’t think of me as a replacement of Bachchu Bhai. I only wish to support LRB to carry forth the legacy that Bachchu Bhai has left for us and I seek everyone’s blessings for me.”
+## About the Award Show
+["Marvel of Tomorrow"](https://influencers.the-marvel.com/marvel-of-tomorrow/) marked a milestone as the first-ever influencer award show in Bangladesh. With 25 categories and a prestigious panel of jurors comprising industry leaders from renowned corporations like Unilever and Grameenphone, as well as government officials, the event set a high standard for recognition within the influencer community. The selection process was meticulous, overseen by esteemed professionals who ensured that only the most deserving influencers received recognition.
 
-LRB Manager, Shamim Ahmed said, “Since his (Ayub Bachchu’s) departure we had been wondering about how we could sustain the band. Finally, we have got Balam to restart our journey. Hopefully everyone would be by our side.”
+{{< figure src="/img/Teaser.jpg" title="Mnemomania Event Title Card" numbered="false" lightbox="true" width="150%">}}
 
-He also hinted that, Tazwar Ayub (Ayub Bachchu’s son) might join the band after he finishes his studies abroad. Tazwar has been seen in quite a few scheduled concerts after the sudden demise of his father. Fine more [here](https://app.encord.com/)
+## My Role
+Initially, I was tasked with contributing to the promotional efforts by crafting engaging content leading up to the event. This involved writing scripts for six promotional AVs featuring prominent influencers such as Rafsan Sabab and Sakib Bin Rashid. The positive reception to these scripts resulted in over a million views, generating excitement for the upcoming event. Additionally, I took on responsibilities within the data gathering team, particularly focusing on influencers in the writers, community engagement, and travel categories. Recognizing the need for efficiency, I leveraged my expertise in Excel to create an automated database, streamlining the data collection process and saving valuable time for the team.
 
-Balam’s official debut as part of LRB, might come on the eve of Pahela Boishakh (14th April) although no official venue has been decided. Balam is a renowned figure in Bangladesh’s Music Industry, having been the vocalist of popular band Warfaze alongside a successful solo career. However, Balam has big shoes to fill and a huge fan base to satisfy. Only time can tell how Balam’s latest venture in his veteran career in going to turn out.
+[![YouTube](http://i.ytimg.com/vi/_EjOLEp24Nc/hqdefault.jpg)](https://www.youtube.com/watch?v=_EjOLEp24Nc)
 
-Initially formed by Ayub Bachchu, S I Tutul, Saidul Hasan Swapan, Habib Anwar Joy back in 1991, LRB has released 14 albums till date with over 2500 gigs at home and abroad. With Balam’s inclusion here is the band’s current line-up: Saidul Hasan Swapan on bass guitar, Masud on second guitar and second voice, Romel on drums, Shamim Ahmed as sound engineer and manager and Balam as the vocalist and guitarist.
+## The Award Night
+The grandeur of the event was evident as Radisson Blu transformed into the epicenter of Bangladesh's influencer scene. Radiating with the glamour of celebrities and influencers gracing the red carpet, the venue exuded an atmosphere of excitement and anticipation. As part of the backstage team, I played a crucial role in ensuring the smooth flow of the event, having written the event flow script for the emcee, Rafsan Sabab. Throughout the night, I remained by his side, providing cues and guidance to ensure a seamless experience for all attendees.
+
+{{< figure src="/img/Marvel.jpg" title="Mnemomania Event Title Card" numbered="false" lightbox="true" width="150%">}}
+
+The culmination of the evening saw deserving influencers receiving their well-deserved awards, followed by a gala dinner that epitomized elegance and sophistication. December 9th, 2021, was undoubtedly a night to remember in Dhaka, as "Marvel of Tomorrow" captivated audiences and set the stage for future iterations of the event. As the show continues to evolve and establish itself as a flagship event in Bangladesh's influencer community, I take immense pride in having been part of its inaugural success.
