@@ -30,9 +30,6 @@ interests:
 
 education:
   courses:
-  - course: MS in Information Technology & Management
-    institution: University of Texas at Dallas
-    year: 2024-Now
   - course: Bachelors of Business Administration
     institution: IBA, University of Dhaka
     year: 2018-2022
