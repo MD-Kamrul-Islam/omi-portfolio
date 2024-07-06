@@ -18,20 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Learning Development Lead"
+  title = "Business Development Executive"
   company = "Complya"
   company_url = "https://complya.com/"
   location = "Remote, United States"
   date_start = "2024-05-01"
   date_end = ""
-  description = """Complya is a Techstars portfolio company that helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. As the Learning Development Lead, I am spearheading the content team to procure and publish a wide array of short professional development courses.
+  description = """Complya is a Techstars portfolio company that helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. As the Business Development Executive I am responsible for promoting Complya in various communities and grow our business across multiple states.
   
   Responsibilities include:
   
-  * Course & Curriculum Development
-  * Project Management
-  * LMS Platform Activation
-  * Product Development
+  * Business Documentation
+  * Growth Management
+  * Stakeholder Communication
+  * Revenue Streams Identification 
   """
 
 [[experience]]
