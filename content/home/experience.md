@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """I returned to Ilmiya to oversee their inbound and outbound marketing operations. My role centers around crafting and tracking the user journey workflow—ensuring that every interaction is meticulously designed to convert leads into delighted customers.
   
-  Responsibilities included:
+  Responsibilities include:
   
   * User Journey Optimization
   * Inbound Marketing
