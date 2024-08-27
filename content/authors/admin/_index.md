@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Learning Development Lead
+role: Marketing Team Lead
 
 # Organizations/Affiliations
 organizations:
-- name: Complya | Techstars‘24
-  url: "https://complya.com/"
+- name: Ilmiya
+  url: "https://ilmiya.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In a world where you can be everything, be kind.
