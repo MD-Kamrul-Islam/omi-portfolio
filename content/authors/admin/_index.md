@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Marketing Team Lead
+role: Sr. Marketing Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Ilmiya
-  url: "https://ilmiya.com/"
+- name: Flagship
+  url: "https://thinkflagship.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In a world where you can be everything, be kind.
@@ -24,9 +24,7 @@ interests:
 - Product Management 
 - Business Analytics
 - LMS & EdTech Curriculum
-- Story Writing
 - Teaching
-- Board Games
 
 education:
   courses:
