@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = "https://ilmiya.com/"
   location = "Remote, United States"
   date_start = "2024-08-01"
-  date_end = ""
+  date_end = "2025-01-01"
   description = """I returned to Ilmiya to oversee their inbound and outbound marketing operations. My role centers around crafting and tracking the user journey workflow—ensuring that every interaction is meticulously designed to convert leads into delighted customers.
   
   Responsibilities include:
