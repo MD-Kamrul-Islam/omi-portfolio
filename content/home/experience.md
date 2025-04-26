@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Sr. Marketing Associate"
+  company = "Flagship"
+  company_url = "https://www.thinkflagship.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2024-11-05"
+  date_end = ""
+  description = """As a Senior Marketing Associate at Flagship, I develop and execute marketing strategies to drive the adoption of Flagship products. I'm obsessed with creating a truly global brand that will disrupt the market.
+  
+  Responsibilities include:
+  
+  * GTM Strategies
+  * Client Relationship Management
+  * Social Media Strategy
+  * Customer Success
+  """
+
+[[experience]]
   title = "Marketing Team Lead"
   company = "Ilmiya"
   company_url = "https://ilmiya.com/"
@@ -33,23 +50,6 @@ date_format = "Jan 2006"
   * Outbound Marketing Coordination
   * Product Launch
   * Customer Success
-  """
-
-[[experience]]
-  title = "Business Development Executive"
-  company = "Complya"
-  company_url = "https://complya.com/"
-  location = "Remote, United States"
-  date_start = "2024-05-01"
-  date_end = "2024-07-30"
-  description = """Complya is a Techstars portfolio company that helps government-regulated businesses in the Care economy automate their compliance journey from start to inspection-ready. As the Business Development Executive, I promoted Complya in various communities and grow our business across multiple states.
-  
-  Responsibilities included:
-  
-  * Business Documentation
-  * Growth Management
-  * Stakeholder Communication
-  * Revenue Streams Identification 
   """
 
 [[experience]]
