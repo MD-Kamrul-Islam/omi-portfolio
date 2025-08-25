@@ -14,7 +14,7 @@ role: STEM-MBA Candidate, Graduate Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: College of Business, Illinois State University
+- name: Illinois State University
   url: "https://business.illinoisstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
