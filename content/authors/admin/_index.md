@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Sr. Marketing Associate
+role: STEM-MBA Candidate, Graduate Teaching Assistant 
 
 # Organizations/Affiliations
 organizations:
-- name: Flagship
-  url: "https://thinkflagship.com/"
+- name: College of Business, Illinois State University
+  url: "https://business.illinoisstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In a world where you can be everything, be kind.
@@ -28,7 +28,11 @@ interests:
 
 education:
   courses:
-  - course: Bachelors of Business Administration
+  - course: Master of Business Administration (STEM)
+    institution: Illinois State University
+    year: 2025-Present
+  
+  - course: Bachelor of Business Administration
     institution: IBA, University of Dhaka
     year: 2018-2022
 
