@@ -31,7 +31,6 @@ date_format = "Jan 2006"
   * Assignment Grading
   * Exam Proctoring
   * Course Material Preparation
-  * Customer Success
   * Student Tutoring
   """
 
