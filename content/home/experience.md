@@ -18,6 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "Department of Marketing, Illinois State University"
+  company_url = "https://business.illinoisstate.edu/about/marketing/"
+  location = "Normal, Illinois, United States"
+  date_start = "2025-08-18"
+  date_end = ""
+  description = """As a Graduate Teaching Assistant to the Marketing department at ISU, I support faculty with academic and administrative tasks to enhance student learning and course delivery.
+  
+  Responsibilities included:
+  
+  * Assignment Grading
+  * Exam Proctoring
+  * Course Material Preparation
+  * Customer Success
+  * Student Tutoring
+  """
+
+[[experience]]
   title = "Sr. Marketing Associate"
   company = "Flagship"
   company_url = "https://www.thinkflagship.com/"
