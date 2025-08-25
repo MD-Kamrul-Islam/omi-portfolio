@@ -82,11 +82,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kiomi920@gmail.com"
-phone = "+880-1551818108"
+phone = "+1 309 612 7252"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Navana Garden", city = "Dhaka", region = "", postcode = "1207", country = "Bangladesh", country_code = "BD"}
+address = {street = "104 W Irving St", city = "Normal", region = "", postcode = "61761", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -111,7 +111,7 @@ contact_links = []
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "Resume-photo.jpg"
+sharing_image = "New-Omi.jpeg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
