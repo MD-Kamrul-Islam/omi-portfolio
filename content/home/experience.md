@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """As a Graduate Teaching Assistant to the Marketing department at ISU, I support faculty with academic and administrative tasks to enhance student learning and course delivery.
   
-  Responsibilities included:
+  Responsibilities include:
   
   * Assignment Grading
   * Exam Proctoring
@@ -59,9 +59,9 @@ date_format = "Jan 2006"
   location = "Remote, United States"
   date_start = "2024-08-01"
   date_end = "2025-01-01"
-  description = """I returned to Ilmiya to oversee their inbound and outbound marketing operations. My role centers around crafting and tracking the user journey workflow—ensuring that every interaction is meticulously designed to convert leads into delighted customers.
+  description = """I returned to Ilmiya to oversee their inbound and outbound marketing operations. My role centered around crafting and tracking the user journey workflow—ensuring that every interaction is meticulously designed to convert leads into delighted customers.
   
-  Responsibilities include:
+  Responsibilities included:
   
   * User Journey Optimization
   * Inbound Marketing
