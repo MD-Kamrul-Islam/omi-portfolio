@@ -23,10 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://www.thinkflagship.com/"
   location = "Dhaka, Bangladesh"
   date_start = "2024-11-05"
-  date_end = ""
-  description = """As a Senior Marketing Associate at Flagship, I develop and execute marketing strategies to drive the adoption of Flagship products. I'm obsessed with creating a truly global brand that will disrupt the market.
+  date_end = "2025-06-01"
+  description = """As a Senior Marketing Associate at Flagship, I developed and executed marketing strategies to drive product adoption. As part of this, I launched a global GTM campaign through which we engaged with 100+ CXOs for product demos.
   
-  Responsibilities include:
+  Responsibilities included:
   
   * GTM Strategies
   * Client Relationship Management
