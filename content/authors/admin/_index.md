@@ -21,8 +21,9 @@ organizations:
 bio: In a world where you can be everything, be kind.
 
 interests:
-- Product Management 
-- Business Analytics
+- Consumer Psychology 
+- Marketing Strategy
+- Digital Product Management
 - LMS & EdTech Curriculum
 - Teaching
 
@@ -67,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a business graduate, an aspiring product manager, a passionate storyteller, an experienced educator, and a board games enthusiast. So, if any of these things pique your interest, I would love to discuss more about it. 
+I am an MBA candidate studying business analytics, a graduate teaching assistant, a former entrepreneur, and someone who believes the most interesting questions live at the edge of data and human behavior. Also: board games, coffee, and learning something new from everyone I meet.
 
-And if we have nothing in common, I would love to learn by listening to you - perhaps over a cup of coffee - in person or virtually! 
+ 
