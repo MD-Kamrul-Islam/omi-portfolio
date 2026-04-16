@@ -68,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-I am an MBA candidate studying business analytics, a graduate teaching assistant, a former entrepreneur, and someone who believes the most interesting questions live at the edge of data and human behavior. Also: board games, coffee, and learning something new from everyone I meet.
-
+I am an MBA candidate with a passion for consumer behavior and marketing strategy, a former entrepreneur, and someone who believes the most interesting questions live at the edge of data and human behavior — questions I hope to pursue through a PhD. Also: board games, coffee, movies, and learning something new from everyone I meet.
  
