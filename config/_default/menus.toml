@@ -9,29 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Research"
+  url = "#publications"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#publications"
+  name = "Experience"
+  url = "#experience"
   weight = 30
+
+[[main]]
+  name = "Certifications"
+  url = "#academiccertificates"
+  weight = 40
 
 [[main]]
   name = "Awards"
   url = "#accomplishments"
-  weight = 40
-
-[[main]]
-  name = "Designer Portfolio"
-  url = "https://drive.google.com/drive/folders/1NrJYrL-iQ2Uc6_I4dku06iX5DD38-6NZ?usp=sharing"
   weight = 50
-
-[[main]]
-  name = "Writer Portfolio"
-  url = "https://www.canva.com/design/DAF0gP-CbYg/Fb9vMwApJgB6PNn-W_QDqQ/view?utm_content=DAF0gP-CbYg&utm_campaign=designshare&utm_medium=link&utm_source=editor"
-  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
