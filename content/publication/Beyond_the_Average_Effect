@@ -1,0 +1,102 @@
++++
+title = "Beyond the Average Effect: When AI Claims Improve and When They Damage Consumer Evaluations (Working Title)"
+date = 2026-10-01T21:53:11-05:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["MD Kamrul Islam", "Sandeep Jagani"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["3"]
+
+# Publication name and optional abbreviated version.
+publication = "Target Journal: Journal of the Academy of Marketing Science"
+publication_short = "Working Paper"
+
+# Abstract and optional shortened version.
+abstract = "Product listings on major e-commerce platforms increasingly advertise artificial intelligence, yet whether this practice serves sellers well remains open. Experimental work reports that AI labeling depresses purchase intention, while recent meta-analyses conclude that consumer responses to AI are conditional rather than uniform. What no study has examined is what happens after purchase, in functioning markets, once consumers have used the product whose capability was advertised. We begin by estimating the average association between AI-signaling language and post-purchase star ratings across 8,447 products and 1,750,116 verified reviews from the Amazon Reviews 2023 dataset; and find it to be essentially zero (+0.002 stars). But the accompanying heterogeneity statistic is 83.6%, meaning the flat average is not the absence of an effect: it is two large, opposite effects cancelling each other. We reposition our research question accordingly: under which conditions does AI language in product listings help or hurt online retailers? We find that the answer depends on category structure and price tier jointly. In homogeneous categories where AI integration is technologically coherent, AI-signaling language is associated with higher ratings. In heterogeneous categories it reverses and becomes negative under covariate balancing. The damage is sharpest at the intersection of budget pricing and category heterogeneity: each additional AI-signaling pattern on a budget product in a heterogeneous category carries a penalty of 0.358 stars (p < 0.001), a net effect of −0.395 stars in that cell. Neither condition alone produces comparable harm. The rating penalty is not the full cost: reviews alleging unmet AI claims receive 15–16% more helpful votes in heterogeneous categories, amplifying the visibility of overclaiming beyond the star rating alone. Two preregistered experiments will test causality and isolate the mechanism."
+
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["AI product labeling", "Consumer psychology"]
+
+# Links (optional).
+url_pdf = "https://drive.google.com/file/d/1kfuyOM1wkdnSlO9pmNrYpn617P7dXfv5/view?usp=drive_link"
+url_preprint = ""
+url_code = ""
+url_dataset = "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Does this page require source code highlighting? (true/false)
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+Status: Working paper — data collection complete; target submission October 2026.
+
+Target journal: Journal of the Academy of Marketing Science
+
+Co-author: Sandeep Jagani, PhD, Associate Professor, Illinois State University.
+
+Research question: Under which conditions does AI-signaling language in e-commerce product listings help or hurt post-purchase consumer evaluations?
+
+Data: Amazon Reviews 2023 dataset (Hou et al., 2024) — 8,447 unique products and 1,750,116 verified reviews across five consumer electronics categories (Networking Products; Portable Audio & Video; Security & Surveillance; Video Surveillance; Wearable Technology), filtered to verified purchases post-2018 with a minimum of 10 reviews per product.
+
+Method: Two-tier AI-Signaling Lexicon (Tier 1: explicit AI claims; Tier 2: contextually adjacent terms with a two-match threshold). OLS regression with category fixed effects and HC3 robust standard errors. Category structure operationalized via Shannon entropy and Herfindahl-Hirschman Index. Three-way interaction model crossing AI intensity, price tier, and category heterogeneity. Review helpfulness analysis extending Chevalier and Mayzlin (2006). Two preregistered experiments in development.
+
+Key findings:
+1. The average association between AI-signaling language and star ratings across all 8,447 products is +0.002 — but the heterogeneity statistic is 83.6%. The flat average masks two large opposite effects cancelling each other out.
+2. As category entropy increases, the AI-signaling effect declines (b = −0.110, p < 0.001), revealing a dose-response relationship between category heterogeneity and AI-signaling harm.
+3. The sharpest penalty occurs at the three-way intersection of AI intensity, budget pricing, and category heterogeneity: −0.358 stars per additional AI-signaling pattern (p < 0.001), net effect −0.395 stars in that cell. Neither condition alone produces comparable damage.
+4. Reviews alleging unmet AI claims receive 15–16% more helpful votes in heterogeneous categories (Security & Surveillance: b = +0.151, p < 0.001; Networking Products: b = +0.144, p = 0.002), amplifying the reputational cost of overclaiming beyond the star rating penalty alone.
+5. Video Surveillance shows no helpfulness amplification (b = −0.010, p = 0.775), consistent with credible AI claims generating no complaint escalation.
+
+Theoretical contribution: Reconciles conflicting findings in the experimental AI-label literature by identifying category coherence and price tier as joint boundary conditions. Extends expectation-disconfirmation theory (Oliver, 1980) and signal credibility theory (Spence, 1973; Erdem & Swait, 1998) to AI claims in functioning e-commerce markets. Introduces review helpfulness amplification as a downstream cost of AI overclaiming beyond the rating penalty.
+
+Planned experiments:
+Study 1 (mechanism): 2×2 design crossing AI claim presence with category coherence, manipulated via product assortment breadth. Tests whether the field pattern is causal and whether expectation disconfirmation mediates it.
+Study 2 (boundary condition): 2×2×2 design crossing AI claim presence, price tier, and feature centrality. Tests the budget-tier penalty directly and examines whether peripheral AI claims trigger greater consumer skepticism than core-function claims.
+Both studies will be preregistered.
