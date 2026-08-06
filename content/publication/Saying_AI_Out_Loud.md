@@ -57,7 +57,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Co-author: Dr. Sandeep Jagani", url = "https://business.illinoisstate.edu/about/management/jagani.php"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -75,6 +74,3 @@ image = ""
 caption = ""
 
 +++
-Findings replicate under propensity score matching and conservative lexicon re-estimation.
-
-Theoretical contribution: Extends expectation-disconfirmation theory (Oliver, 1980) and signal credibility theory (Spence, 1973; Erdem & Swait, 1998) to AI-signaling language in e-commerce. Introduces AI-signaling keywords as a new, distinct dimension of product listing signals; one that can both help and harm consumer perception depending on category structure.
