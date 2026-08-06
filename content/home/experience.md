@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Work Experience"
+title = "Relevant Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Normal, Illinois, United States"
   date_start = "2025-08-18"
   date_end = ""
-  description = """As a Graduate Teaching Assistant to the Marketing department at ISU, I support faculty with academic and administrative tasks to enhance student learning and course delivery.
+  description = """Courses assisted: MKT 440, MKT 350, MKT 345, MKT 230, BE 141
   
   Responsibilities include:
   
@@ -35,15 +35,31 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Sr. Marketing Associate"
-  company = "Flagship"
-  company_url = "https://www.thinkflagship.com/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2024-11-05"
-  date_end = "2025-05-31"
-  description = """As a Senior Marketing Associate at Flagship, I developed and executed marketing strategies to drive product adoption. As part of this, I launched a global GTM campaign through which we engaged with 100+ CXOs for product demos.
+  title = "Session Administrator"
+  company = "DSI Annual Pedagogy Conference Organizing Committee"
+  company_url = "https://decisionsciences.org/"
+  location = "Virtual"
+  date_start = "2026-05-27"
+  date_end = "2026-05-28"
+  description = """Supported live session delivery and technical operations as a member of the conference organizing committee.
   
   Responsibilities included:
+  
+  * Session Moderation
+  * Session Recording
+  """
+
+
+[[experience]]
+#  title = "Sr. Marketing Associate"
+#  company = "Flagship"
+#  company_url = "https://www.thinkflagship.com/"
+#  location = "Dhaka, Bangladesh"
+#  date_start = "2024-11-05"
+#  date_end = "2025-05-31"
+#  description = """As a Senior Marketing Associate at Flagship, I developed and executed marketing strategies to drive product adoption. As part of this, I launched a global GTM campaign through which we engaged with 100+ CXOs for product demos.
+  
+#  Responsibilities included:
   
   * GTM Strategies
   * Client Relationship Management
