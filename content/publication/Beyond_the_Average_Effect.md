@@ -15,7 +15,7 @@ authors = ["MD Kamrul Islam", "Sandeep Jagani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Target Journal: Journal of the Academy of Marketing Science"
