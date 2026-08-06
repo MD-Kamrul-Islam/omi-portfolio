@@ -1,6 +1,6 @@
 +++
 title = "Beyond the Average Effect: When AI Claims Improve and When They Damage Consumer Evaluations (Working Title)"
-date = 2026-10-01T21:53:11-05:00
+date = 2026-08-01T21:53:11-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
