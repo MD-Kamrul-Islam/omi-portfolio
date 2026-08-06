@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   """
 
 
-[[experience]]
+# [[experience]]
 #  title = "Sr. Marketing Associate"
 #  company = "Flagship"
 #  company_url = "https://www.thinkflagship.com/"
@@ -61,11 +61,11 @@ date_format = "Jan 2006"
   
 #  Responsibilities included:
   
-  * GTM Strategies
-  * Client Relationship Management
-  * Social Media Strategy
-  * Customer Success
-  """
+#  * GTM Strategies
+#  * Client Relationship Management
+#  * Social Media Strategy
+#  * Customer Success
+#  """
 
 [[experience]]
   title = "Marketing Team Lead"
