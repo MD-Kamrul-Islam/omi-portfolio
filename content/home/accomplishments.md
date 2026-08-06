@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards & Honors"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "HSBC Business Case Competition"
-  organization_url = "https://www.hsbc.com.bd/1/2/cs/hsbc-business-case-competition"
-  title = "Quarter-Finalist"
+  organization = "College of Business, Illinois State University"
+  organization_url = "https://business.illinoisstate.edu/"
+  title = "Merit-Based Conference Presentation Award"
   url = ""
   certificate_url = ""
-  date_start = "2020-04-01"
+  date_start = "2026-08-01"
   date_end = ""
-  description = "In one of the premier case solving competitions in Bangladesh, we were one of the 4 representatives from IBA-DU in the national round. However, due to COVID 19 Pandemic, the competition was called off."
+  description = "Awarded $1,000 in merit-based travel funding to present accepted research at the Decision Sciences Institute Annual Conference 2026."
 
 [[item]]
-  organization = "International Blockchain Olympiad"
-  organization_url = "https://www.ibcol.org/"
-  title = "Award of Merit"
+  organization = "TRUE Leadership Conference"
+  organization_url = "https://www.trueleadershipconference.com/"
+  title = "Full Scholarship"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/1USbwZhDj6DcA1A1hWNQ1I_8kDUFT1mpA/view?usp=drive_link"
-  date_start = "2020-07-01"
+  certificate_url = ""
+  date_start = "2026-05-01"
   date_end = ""
-  description = "In the inaugural version of the International Blockchain Olympiad, we as Team TORR qualified for the global round with our project MediTech Bangla. We were among the top 12 Global Finalists, and secured an Award of Merit for our project."
+  description = "Received a fully funded scholarship to attend the TRUE Leadership Conference in North Carolina."
   
 
 [[item]]
@@ -44,9 +44,9 @@ date_format = "Jan 2006"
   organization_url = "https://bcolbd.org/"
   title = "Silver Award"
   url = ""
-  certificate_url = "https://drive.google.com/file/d/17DJf1-6abybXoK04lSnWPtAUEWdPMEeL/view?usp=drive_link"
+  certificate_url = ""
   date_start = "2021-03-01"
   date_end = ""
-  description = "Team Masala Dosa, comprising exclusively of business school graduates, secured the distinguished second prize - a silver award - in the Blockchain Olympiad Bangladesh, 2021. We, as a team, worked on developing an innovative blockchain-based project focused on automating stock market processes."
+  description = "Team Masala Dosa secured the Silver Award (second nationally) at Blockchain Olympiad Bangladesh 2021 for AutoStock, a blockchain-based stock market automation proposal."
 
 +++
