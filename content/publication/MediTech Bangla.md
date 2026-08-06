@@ -1,7 +1,7 @@
 +++
 title = "Meditech Bangla: A Blockchain Based 'Easy Health Record' System"
 date = 2020-03-21T21:53:11-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MD Kamrul Islam", "Tasnuva Ashraf Umama", "Abu Rafi Md. Arif Rayhan", "Rafid Ibrahim Hasan"]
