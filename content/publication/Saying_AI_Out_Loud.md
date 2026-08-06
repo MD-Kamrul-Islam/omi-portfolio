@@ -1,6 +1,6 @@
 +++
 title = "Saying AI Out Loud: Cross-Category Evidence on How AI-Signaling Keywords Shape Post-Purchase Consumer Evaluations"
-date = 2026-06-01T21:53:11-05:00
+date = 2026-11-01T21:53:11-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
