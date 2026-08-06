@@ -74,22 +74,6 @@ image = ""
 caption = ""
 
 +++
-
-Status: Accepted — First Author & Conference Presenter, DSI Annual Conference, November 2026.
-
-Co-author: Sandeep Jagani, PhD, Associate Professor, Illinois State University.
-
-Research question: Does AI-signaling language in e-commerce product listings affect post-purchase consumer star ratings, and does this effect vary by product category and price tier?
-
-Data: Amazon Reviews 2023 dataset (Hou et al., 2024) — 3,869 unique products across two consumer electronics categories (Security & Surveillance; Video Surveillance), filtered to verified purchase reviews from January 2018 through September 2023.
-
-Method: Text-based keyword classification using a two-tiered Perceived AI-Signaling Lexicon (Tier 1: explicit AI claims; Tier 2: contextually AI-adjacent terms). OLS regression with HC3 heteroskedasticity-robust standard errors. Price-tier and review-volume moderation models. Robustness checks via propensity score matching and conservative Tier 1-only lexicon re-estimation.
-
-Key findings:
-
-AI-signaling language has opposite effects across the two categories: positive in homogeneous Video Surveillance (β = +0.100, p < 0.001) and negative in heterogeneous Security & Surveillance (β = −0.148, p < 0.001).
-The negative effect in Security & Surveillance is entirely concentrated in the budget price tier (β = −0.187, p < 0.01), consistent with expectation-disconfirmation theory: budget-tier AI claims inflate expectations that low-cost products cannot fulfill.
-Review volume does not moderate the AI-signaling effect in either category.
 Findings replicate under propensity score matching and conservative lexicon re-estimation.
 
 Theoretical contribution: Extends expectation-disconfirmation theory (Oliver, 1980) and signal credibility theory (Spence, 1973; Erdem & Swait, 1998) to AI-signaling language in e-commerce. Introduces AI-signaling keywords as a new, distinct dimension of product listing signals; one that can both help and harm consumer perception depending on category structure.
