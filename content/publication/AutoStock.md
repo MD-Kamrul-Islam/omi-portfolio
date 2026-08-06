@@ -1,7 +1,7 @@
 +++
 title = "AutoStock: Stock Market Meets Blockchain"
 date = 2021-03-21T21:53:11-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["MD Kamrul Islam", "Muntasir Hasnain Chowdhury", "Abu Rafi Md. Arif Rayhan", "Tasnuva Ashraf Umama"]
