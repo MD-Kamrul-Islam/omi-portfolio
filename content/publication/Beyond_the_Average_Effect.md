@@ -74,29 +74,3 @@ image = ""
 caption = ""
 
 +++
-
-Status: Working paper — data collection complete; target submission October 2026.
-
-Target journal: Journal of the Academy of Marketing Science
-
-Co-author: Sandeep Jagani, PhD, Associate Professor, Illinois State University.
-
-Research question: Under which conditions does AI-signaling language in e-commerce product listings help or hurt post-purchase consumer evaluations?
-
-Data: Amazon Reviews 2023 dataset (Hou et al., 2024) — 8,447 unique products and 1,750,116 verified reviews across five consumer electronics categories (Networking Products; Portable Audio & Video; Security & Surveillance; Video Surveillance; Wearable Technology), filtered to verified purchases post-2018 with a minimum of 10 reviews per product.
-
-Method: Two-tier AI-Signaling Lexicon (Tier 1: explicit AI claims; Tier 2: contextually adjacent terms with a two-match threshold). OLS regression with category fixed effects and HC3 robust standard errors. Category structure operationalized via Shannon entropy and Herfindahl-Hirschman Index. Three-way interaction model crossing AI intensity, price tier, and category heterogeneity. Review helpfulness analysis extending Chevalier and Mayzlin (2006). Two preregistered experiments in development.
-
-Key findings:
-1. The average association between AI-signaling language and star ratings across all 8,447 products is +0.002 — but the heterogeneity statistic is 83.6%. The flat average masks two large opposite effects cancelling each other out.
-2. As category entropy increases, the AI-signaling effect declines (b = −0.110, p < 0.001), revealing a dose-response relationship between category heterogeneity and AI-signaling harm.
-3. The sharpest penalty occurs at the three-way intersection of AI intensity, budget pricing, and category heterogeneity: −0.358 stars per additional AI-signaling pattern (p < 0.001), net effect −0.395 stars in that cell. Neither condition alone produces comparable damage.
-4. Reviews alleging unmet AI claims receive 15–16% more helpful votes in heterogeneous categories (Security & Surveillance: b = +0.151, p < 0.001; Networking Products: b = +0.144, p = 0.002), amplifying the reputational cost of overclaiming beyond the star rating penalty alone.
-5. Video Surveillance shows no helpfulness amplification (b = −0.010, p = 0.775), consistent with credible AI claims generating no complaint escalation.
-
-Theoretical contribution: Reconciles conflicting findings in the experimental AI-label literature by identifying category coherence and price tier as joint boundary conditions. Extends expectation-disconfirmation theory (Oliver, 1980) and signal credibility theory (Spence, 1973; Erdem & Swait, 1998) to AI claims in functioning e-commerce markets. Introduces review helpfulness amplification as a downstream cost of AI overclaiming beyond the rating penalty.
-
-Planned experiments:
-Study 1 (mechanism): 2×2 design crossing AI claim presence with category coherence, manipulated via product assortment breadth. Tests whether the field pattern is causal and whether expectation disconfirmation mediates it.
-Study 2 (boundary condition): 2×2×2 design crossing AI claim presence, price tier, and feature centrality. Tests the budget-tier penalty directly and examines whether peripheral AI claims trigger greater consumer skepticism than core-function claims.
-Both studies will be preregistered.
