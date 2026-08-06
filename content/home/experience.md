@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Relevant Experience"
+title = "Selected Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,57 +24,42 @@ date_format = "Jan 2006"
   location = "Normal, Illinois, United States"
   date_start = "2025-08-18"
   date_end = ""
-  description = """Courses assisted: MKT 440, MKT 350, MKT 345, MKT 230, BE 141
+  description = """I support Department of Marketing across multiple sections of undergraduate marketing courses, assisting faculty with course preparation, material development, and administrative coordination.
   
-  Responsibilities include:
+  Courses assisted:
   
-  * Assignment Grading
-  * Exam Proctoring
-  * Course Material Preparation
-  * Student Tutoring
+  * MKT 440
+  * MKT 350
+  * MKT 345
+  * MKT 230
+  * BE 141
   """
 
 [[experience]]
-  title = "Session Administrator"
-  company = "DSI Annual Pedagogy Conference Organizing Committee"
-  company_url = "https://decisionsciences.org/"
-  location = "Virtual"
-  date_start = "2026-05-27"
-  date_end = "2026-05-28"
-  description = """Supported live session delivery and technical operations as a member of the conference organizing committee.
+  title = "Sr. Marketing Associate"
+  company = "Flagship"
+  company_url = "https://www.thinkflagship.com/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2024-11-05"
+  date_end = "2025-05-31"
+  description = """Recruited as the first member of the marketing team, I led the global go-to-market campaign for Horizon, an agentic short-video embedding platform for enterprise. As part of our pilot launch, we partnered with Grameenphone, the largest telecom operator in Bangladesh.
   
   Responsibilities included:
   
-  * Session Moderation
-  * Session Recording
+  * GTM Strategies
+  * Client Relationship Management
+  * Social Media Strategy
+  * Customer Success
   """
-
-
-# [[experience]]
-#  title = "Sr. Marketing Associate"
-#  company = "Flagship"
-#  company_url = "https://www.thinkflagship.com/"
-#  location = "Dhaka, Bangladesh"
-#  date_start = "2024-11-05"
-#  date_end = "2025-05-31"
-#  description = """As a Senior Marketing Associate at Flagship, I developed and executed marketing strategies to drive product adoption. As part of this, I launched a global GTM campaign through which we engaged with 100+ CXOs for product demos.
-  
-#  Responsibilities included:
-  
-#  * GTM Strategies
-#  * Client Relationship Management
-#  * Social Media Strategy
-#  * Customer Success
-#  """
 
 [[experience]]
   title = "Marketing Team Lead"
   company = "Ilmiya"
   company_url = "https://ilmiya.com/"
-  location = "Remote, United States"
+  location = "Minnesota (Remote), United States"
   date_start = "2024-08-01"
   date_end = "2025-01-01"
-  description = """I returned to Ilmiya to oversee their inbound and outbound marketing operations. My role centered around crafting and tracking the user journey workflow—ensuring that every interaction is meticulously designed to convert leads into delighted customers.
+  description = """Starting my journey from a Project Manager, I was promoted to Curriculum Manager and then to Marketing Team Lead. Under my tenure, we onboarded the first 14 schools onto our Muslim-focused LMS platform, establishing the foundation for the company's school acquisition pipeline.
   
   Responsibilities included:
   
@@ -86,48 +71,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Product Brand Manager"
-  company = "Girmairi"
-  company_url = "https://girmairi.com/"
-  location = "Remote, United States"
-  date_start = "2022-09-01"
-  date_end = "2024-04-15"
-  description = """Girmairi is a USA-based company that develops software applications (web/mobile/desktop) for clients from different industries. As part of my tenure, I was affiliated with both their in-house product - Foyob (A Dealership Management Software), and their outsourcing talent business model - Girmairi. 
-  
-  Responsibilities included:
-  
-  * Digital Product Management
-  * Product Design Development
-  * B2B Sales & Marketing Communication
-  * Brand Management
-  * SEO Copywriting
-  """
-
-[[experience]]
-  title = "Curriculum Manager"
-  company = "Ilmiya"
-  company_url = "https://ilmiya.com/"
-  location = "Remote, United States"
-  date_start = "2022-06-13"
-  date_end = "2024-02-24"
-  description = """Ilmiya is an AI-powered education platform that personalizes the student journey, automatically optimizes learning outcomes, and proactively engages with learners at the right time. Immersive, intelligent infrastructure for K12 AI-powered personalized learning. At Ilmiya, we are set on closing the achievement gap for the global Muslim community.
-  
-  Responsibilities included:
-  
-  * Content & Curriculum Development
-  * Project Management
-  * Resource Recruitment
-  * Product Development
-  """
-
-[[experience]]
   title = "CMO & Co-founder"
   company = "Prottoy"
   company_url = "https://www.prottoy.com.bd/"
   location = "Dhaka, Bangladesh"
   date_start = "2020-08-01"
   date_end = "2022-09-30"
-  description = """Prottoy is a rising EdTech startup based in Bangladesh that is aiming to incorporate visual learning tools and AI/AR/VR technology in primary, secondary, and higher secondary education so that learning can be made simple, fun and attractive. In my tenure as the CMO, we raised a grand total of $50,000 in pre-seed and seed funding rounds. 
+  description = """I began my entrepreneurial journey during my undergraduate years by co-founding Prottoy, an EdTech startup based in Bangladesh. Our mission was to bridge the geographical barrier in Bangladesh's education system, which remains heavily centralized in Dhaka. Our learning platform connected accredited urban teachers with rural students, working toward a more decentralized and accessible education system across the country. 
   
   Responsibilities included:
   
