@@ -44,7 +44,7 @@ projects = []
 tags = ["Product title", "AI product labeling", "Consumer perception", "Online consumer reviews", "E-commerce"]
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/14YGM7Z854Uf3bd4YYKzfUE9M8rTqiI1o/view?usp=drive_link"
+url_pdf = "https://drive.google.com/file/d/1wb3Vht4Csi3xmHh8VpUo_flQypZlosWu/view?usp=drive_link"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023"
