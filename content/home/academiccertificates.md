@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   description = "Training in programming tools for data analysis including Python and R, with focus on data management, preparation, exploration, and cleansing applied to real-world datasets."
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org/"
+  organization = "Yale University (offered through Coursera)"
+  organization_url = "https://www.coursera.org/learn/introduction-psychology"
   title = "Introduction to Psychology"
   url = "https://www.coursera.org/learn/introduction-psychology"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/XPHCJW8DMAMK"
