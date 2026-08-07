@@ -48,15 +48,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Learned different pychological and behavioral analysis in order to use this learning for customer behavior analysis."
 
-[[item]]
-  organization = "Google for Startups"
-  organization_url = "https://startup.google.com/"
-  title = "Google AI Sales Academy"
-  url = "https://startup.google.com/programs/sales-academy/"
-  certificate_url = "https://drive.google.com/file/d/1emUvg6ZobE3qfmRp_i1FG4XtKVQMvwKG/view?usp=sharing"
-  date_start = "2024-10-01"
-  date_end = ""
-  description = "Applied AI-driven sales strategies learned through this program directly to Ilmiya's go-to-market campaign, supporting outreach and pipeline development as Marketing Team Lead."
+# [[item]]
+#  organization = "Google for Startups"
+#  organization_url = "https://startup.google.com/"
+#  title = "Google AI Sales Academy"
+#  url = "https://startup.google.com/programs/sales-academy/"
+#  certificate_url = "https://drive.google.com/file/d/1emUvg6ZobE3qfmRp_i1FG4XtKVQMvwKG/view?usp=sharing"
+#  date_start = "2024-10-01"
+#  date_end = ""
+#  description = "Applied AI-driven sales strategies learned through this program directly to Ilmiya's go-to-market campaign, supporting outreach and pipeline development as Marketing Team Lead."
 
 # [[item]]
 #  organization = "Coursera"
