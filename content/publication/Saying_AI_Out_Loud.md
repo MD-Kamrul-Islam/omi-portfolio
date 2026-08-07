@@ -18,13 +18,13 @@ authors = ["MD Kamrul Islam", "Sandeep Jagani"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Decision Sciences Institute Annual Conference"
+publication = "Decision Sciences Institute Annual Conference 2026, San Francisco"
 publication_short = "DSI 2026"
 
 # Abstract and optional shortened version.
 abstract = "As AI capabilities proliferate across consumer-facing products, sellers increasingly embed AI-signaling language in e-commerce listings as a signal of technological sophistication. This study examines how such language influences post-purchase consumer star ratings using the Amazon Reviews 2023 dataset across 3,869 products in two consumer electronics categories: Security & Surveillance and Video Surveillance. Through text-based keyword modeling validated with intercoder reliability assessment (Cohen's Kappa = 0.734), we find that the effect of AI-signaling language is category-contingent and concentrated at the budget price tier. In the homogeneous Video Surveillance category, AI-signaling language is positively and significantly associated with star ratings (β = +0.100, p < 0.001), consistent with credible signal formation and positive expectation disconfirmation. In the heterogeneous Security & Surveillance category, the same language is negatively and significantly associated with ratings (β = −0.148, p < 0.001), with the penalty concentrated entirely in the budget price tier. Review volume does not moderate the effect in either category. Findings hold under propensity score matching and conservative lexicon re-estimation. This research expands the growing literature on AI and marketing, introducing AI-signaling language as a new dimension of product listing signals and extending expectation-disconfirmation theory and signal credibility theory to the AI-in-marketing context."
 
-abstract_short = ""
+abstract_short = "Hi"
 
 # Featured image thumbnail (optional)
 image_preview = ""
